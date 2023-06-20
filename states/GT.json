@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Alta Verapaz Department",
+    "state_code": "AV",
+    "latitude": "15.59428830",
+    "longitude": "-90.14949880"
+  },
+  {
+    "name": "Baja Verapaz Department",
+    "state_code": "BV",
+    "latitude": "15.12558670",
+    "longitude": "-90.37483540"
+  },
+  {
+    "name": "Chimaltenango Department",
+    "state_code": "CM",
+    "latitude": "14.56347870",
+    "longitude": "-90.98206680"
+  },
+  {
+    "name": "Chiquimula Department",
+    "state_code": "CQ",
+    "latitude": "14.75149990",
+    "longitude": "-89.47421770"
+  },
+  {
+    "name": "El Progreso Department",
+    "state_code": "PR",
+    "latitude": "14.93887320",
+    "longitude": "-90.07467670"
+  },
+  {
+    "name": "Escuintla Department",
+    "state_code": "ES",
+    "latitude": "14.19109120",
+    "longitude": "-90.98206680"
+  },
+  {
+    "name": "Guatemala Department",
+    "state_code": "GU",
+    "latitude": "14.56494010",
+    "longitude": "-90.52578230"
+  },
+  {
+    "name": "Huehuetenango Department",
+    "state_code": "HU",
+    "latitude": "15.58799140",
+    "longitude": "-91.67606910"
+  },
+  {
+    "name": "Izabal Department",
+    "state_code": "IZ",
+    "latitude": "15.49765170",
+    "longitude": "-88.86469800"
+  },
+  {
+    "name": "Jalapa Department",
+    "state_code": "JA",
+    "latitude": "14.61214460",
+    "longitude": "-89.96267990"
+  },
+  {
+    "name": "Jutiapa Department",
+    "state_code": "JU",
+    "latitude": "14.19308020",
+    "longitude": "-89.92532330"
+  },
+  {
+    "name": "Petén Department",
+    "state_code": "PE",
+    "latitude": "16.91203300",
+    "longitude": "-90.29957850"
+  },
+  {
+    "name": "Quetzaltenango Department",
+    "state_code": "QZ",
+    "latitude": "14.79243300",
+    "longitude": "-91.71495800"
+  },
+  {
+    "name": "Quiché Department",
+    "state_code": "QC",
+    "latitude": "15.49838080",
+    "longitude": "-90.98206680"
+  },
+  {
+    "name": "Retalhuleu Department",
+    "state_code": "RE",
+    "latitude": "14.52454850",
+    "longitude": "-91.68578800"
+  },
+  {
+    "name": "Sacatepéquez Department",
+    "state_code": "SA",
+    "latitude": "14.51783790",
+    "longitude": "-90.71527490"
+  },
+  {
+    "name": "San Marcos Department",
+    "state_code": "SM",
+    "latitude": "14.93095690",
+    "longitude": "-91.90992380"
+  },
+  {
+    "name": "Santa Rosa Department",
+    "state_code": "SR",
+    "latitude": "38.44057590",
+    "longitude": "-122.70375430"
+  },
+  {
+    "name": "Sololá Department",
+    "state_code": "SO",
+    "latitude": "14.74852300",
+    "longitude": "-91.28910360"
+  },
+  {
+    "name": "Suchitepéquez Department",
+    "state_code": "SU",
+    "latitude": "14.42159820",
+    "longitude": "-91.40482490"
+  },
+  {
+    "name": "Totonicapán Department",
+    "state_code": "TO",
+    "latitude": "14.91734020",
+    "longitude": "-91.36139230"
+  }
+]

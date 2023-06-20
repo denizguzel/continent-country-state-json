@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Argentina",
+    "native": "Argentina",
+    "phone": "54",
+    "capital": "Buenos Aires",
+    "currency": "ARS",
+    "languages": [
+      "es",
+      "gn"
+    ],
+    "code": "AR"
+  },
+  {
+    "name": "Bolivia",
+    "native": "Bolivia",
+    "phone": "591",
+    "capital": "Sucre",
+    "currency": "BOB,BOV",
+    "languages": [
+      "es",
+      "ay",
+      "qu"
+    ],
+    "code": "BO"
+  },
+  {
+    "name": "Brazil",
+    "native": "Brasil",
+    "phone": "55",
+    "capital": "Brasília",
+    "currency": "BRL",
+    "languages": [
+      "pt"
+    ],
+    "code": "BR"
+  },
+  {
+    "name": "Chile",
+    "native": "Chile",
+    "phone": "56",
+    "capital": "Santiago",
+    "currency": "CLF,CLP",
+    "languages": [
+      "es"
+    ],
+    "code": "CL"
+  },
+  {
+    "name": "Colombia",
+    "native": "Colombia",
+    "phone": "57",
+    "capital": "Bogotá",
+    "currency": "COP",
+    "languages": [
+      "es"
+    ],
+    "code": "CO"
+  },
+  {
+    "name": "Ecuador",
+    "native": "Ecuador",
+    "phone": "593",
+    "capital": "Quito",
+    "currency": "USD",
+    "languages": [
+      "es"
+    ],
+    "code": "EC"
+  },
+  {
+    "name": "Falkland Islands",
+    "native": "Falkland Islands",
+    "phone": "500",
+    "capital": "Stanley",
+    "currency": "FKP",
+    "languages": [
+      "en"
+    ],
+    "code": "FK"
+  },
+  {
+    "name": "French Guiana",
+    "native": "Guyane française",
+    "phone": "594",
+    "capital": "Cayenne",
+    "currency": "EUR",
+    "languages": [
+      "fr"
+    ],
+    "code": "GF"
+  },
+  {
+    "name": "Guyana",
+    "native": "Guyana",
+    "phone": "592",
+    "capital": "Georgetown",
+    "currency": "GYD",
+    "languages": [
+      "en"
+    ],
+    "code": "GY"
+  },
+  {
+    "name": "Peru",
+    "native": "Perú",
+    "phone": "51",
+    "capital": "Lima",
+    "currency": "PEN",
+    "languages": [
+      "es"
+    ],
+    "code": "PE"
+  },
+  {
+    "name": "Paraguay",
+    "native": "Paraguay",
+    "phone": "595",
+    "capital": "Asunción",
+    "currency": "PYG",
+    "languages": [
+      "es",
+      "gn"
+    ],
+    "code": "PY"
+  },
+  {
+    "name": "Suriname",
+    "native": "Suriname",
+    "phone": "597",
+    "capital": "Paramaribo",
+    "currency": "SRD",
+    "languages": [
+      "nl"
+    ],
+    "code": "SR"
+  },
+  {
+    "name": "Uruguay",
+    "native": "Uruguay",
+    "phone": "598",
+    "capital": "Montevideo",
+    "currency": "UYI,UYU",
+    "languages": [
+      "es"
+    ],
+    "code": "UY"
+  },
+  {
+    "name": "Venezuela",
+    "native": "Venezuela",
+    "phone": "58",
+    "capital": "Caracas",
+    "currency": "VEF",
+    "languages": [
+      "es"
+    ],
+    "code": "VE"
+  }
+]

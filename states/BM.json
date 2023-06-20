@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Devonshire",
+    "state_code": "DEV",
+    "latitude": "32.30380620",
+    "longitude": "-64.76069540"
+  },
+  {
+    "name": "Hamilton",
+    "state_code": "HA",
+    "latitude": "32.34494320",
+    "longitude": "-64.72365000"
+  },
+  {
+    "name": "Paget",
+    "state_code": "PAG",
+    "latitude": "32.28107400",
+    "longitude": "-64.77847870"
+  },
+  {
+    "name": "Pembroke",
+    "state_code": "PEM",
+    "latitude": "32.30076720",
+    "longitude": "-64.79626300"
+  },
+  {
+    "name": "Saint George's",
+    "state_code": "SGE",
+    "latitude": "17.12577590",
+    "longitude": "-62.56198110"
+  },
+  {
+    "name": "Sandys",
+    "state_code": "SAN",
+    "latitude": "32.29995280",
+    "longitude": "-64.86741030"
+  },
+  {
+    "name": "Smith's",
+    "state_code": "SMI",
+    "latitude": "32.31339660",
+    "longitude": "-64.73105880"
+  },
+  {
+    "name": "Southampton",
+    "state_code": "SOU",
+    "latitude": "32.25400950",
+    "longitude": "-64.82590580"
+  },
+  {
+    "name": "Warwick",
+    "state_code": "WAR",
+    "latitude": "32.26615340",
+    "longitude": "-64.80811980"
+  }
+]

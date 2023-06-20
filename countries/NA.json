@@ -1,0 +1,463 @@
+[
+  {
+    "name": "Antigua and Barbuda",
+    "native": "Antigua and Barbuda",
+    "phone": "1268",
+    "capital": "Saint John's",
+    "currency": "XCD",
+    "languages": [
+      "en"
+    ],
+    "code": "AG"
+  },
+  {
+    "name": "Anguilla",
+    "native": "Anguilla",
+    "phone": "1264",
+    "capital": "The Valley",
+    "currency": "XCD",
+    "languages": [
+      "en"
+    ],
+    "code": "AI"
+  },
+  {
+    "name": "Aruba",
+    "native": "Aruba",
+    "phone": "297",
+    "capital": "Oranjestad",
+    "currency": "AWG",
+    "languages": [
+      "nl",
+      "pa"
+    ],
+    "code": "AW"
+  },
+  {
+    "name": "Barbados",
+    "native": "Barbados",
+    "phone": "1246",
+    "capital": "Bridgetown",
+    "currency": "BBD",
+    "languages": [
+      "en"
+    ],
+    "code": "BB"
+  },
+  {
+    "name": "Saint Barthélemy",
+    "native": "Saint-Barthélemy",
+    "phone": "590",
+    "capital": "Gustavia",
+    "currency": "EUR",
+    "languages": [
+      "fr"
+    ],
+    "code": "BL"
+  },
+  {
+    "name": "Bermuda",
+    "native": "Bermuda",
+    "phone": "1441",
+    "capital": "Hamilton",
+    "currency": "BMD",
+    "languages": [
+      "en"
+    ],
+    "code": "BM"
+  },
+  {
+    "name": "Bonaire",
+    "native": "Bonaire",
+    "phone": "5997",
+    "capital": "Kralendijk",
+    "currency": "USD",
+    "languages": [
+      "nl"
+    ],
+    "code": "BQ"
+  },
+  {
+    "name": "Bahamas",
+    "native": "Bahamas",
+    "phone": "1242",
+    "capital": "Nassau",
+    "currency": "BSD",
+    "languages": [
+      "en"
+    ],
+    "code": "BS"
+  },
+  {
+    "name": "Belize",
+    "native": "Belize",
+    "phone": "501",
+    "capital": "Belmopan",
+    "currency": "BZD",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "code": "BZ"
+  },
+  {
+    "name": "Canada",
+    "native": "Canada",
+    "phone": "1",
+    "capital": "Ottawa",
+    "currency": "CAD",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "code": "CA"
+  },
+  {
+    "name": "Costa Rica",
+    "native": "Costa Rica",
+    "phone": "506",
+    "capital": "San José",
+    "currency": "CRC",
+    "languages": [
+      "es"
+    ],
+    "code": "CR"
+  },
+  {
+    "name": "Cuba",
+    "native": "Cuba",
+    "phone": "53",
+    "capital": "Havana",
+    "currency": "CUC,CUP",
+    "languages": [
+      "es"
+    ],
+    "code": "CU"
+  },
+  {
+    "name": "Curacao",
+    "native": "Curaçao",
+    "phone": "5999",
+    "capital": "Willemstad",
+    "currency": "ANG",
+    "languages": [
+      "nl",
+      "pa",
+      "en"
+    ],
+    "code": "CW"
+  },
+  {
+    "name": "Dominica",
+    "native": "Dominica",
+    "phone": "1767",
+    "capital": "Roseau",
+    "currency": "XCD",
+    "languages": [
+      "en"
+    ],
+    "code": "DM"
+  },
+  {
+    "name": "Dominican Republic",
+    "native": "República Dominicana",
+    "phone": "1809,1829,1849",
+    "capital": "Santo Domingo",
+    "currency": "DOP",
+    "languages": [
+      "es"
+    ],
+    "code": "DO"
+  },
+  {
+    "name": "Grenada",
+    "native": "Grenada",
+    "phone": "1473",
+    "capital": "St. George's",
+    "currency": "XCD",
+    "languages": [
+      "en"
+    ],
+    "code": "GD"
+  },
+  {
+    "name": "Greenland",
+    "native": "Kalaallit Nunaat",
+    "phone": "299",
+    "capital": "Nuuk",
+    "currency": "DKK",
+    "languages": [
+      "kl"
+    ],
+    "code": "GL"
+  },
+  {
+    "name": "Guadeloupe",
+    "native": "Guadeloupe",
+    "phone": "590",
+    "capital": "Basse-Terre",
+    "currency": "EUR",
+    "languages": [
+      "fr"
+    ],
+    "code": "GP"
+  },
+  {
+    "name": "Guatemala",
+    "native": "Guatemala",
+    "phone": "502",
+    "capital": "Guatemala City",
+    "currency": "GTQ",
+    "languages": [
+      "es"
+    ],
+    "code": "GT"
+  },
+  {
+    "name": "Honduras",
+    "native": "Honduras",
+    "phone": "504",
+    "capital": "Tegucigalpa",
+    "currency": "HNL",
+    "languages": [
+      "es"
+    ],
+    "code": "HN"
+  },
+  {
+    "name": "Haiti",
+    "native": "Haïti",
+    "phone": "509",
+    "capital": "Port-au-Prince",
+    "currency": "HTG,USD",
+    "languages": [
+      "fr",
+      "ht"
+    ],
+    "code": "HT"
+  },
+  {
+    "name": "Jamaica",
+    "native": "Jamaica",
+    "phone": "1876",
+    "capital": "Kingston",
+    "currency": "JMD",
+    "languages": [
+      "en"
+    ],
+    "code": "JM"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "native": "Saint Kitts and Nevis",
+    "phone": "1869",
+    "capital": "Basseterre",
+    "currency": "XCD",
+    "languages": [
+      "en"
+    ],
+    "code": "KN"
+  },
+  {
+    "name": "Cayman Islands",
+    "native": "Cayman Islands",
+    "phone": "1345",
+    "capital": "George Town",
+    "currency": "KYD",
+    "languages": [
+      "en"
+    ],
+    "code": "KY"
+  },
+  {
+    "name": "Saint Lucia",
+    "native": "Saint Lucia",
+    "phone": "1758",
+    "capital": "Castries",
+    "currency": "XCD",
+    "languages": [
+      "en"
+    ],
+    "code": "LC"
+  },
+  {
+    "name": "Saint Martin",
+    "native": "Saint-Martin",
+    "phone": "590",
+    "capital": "Marigot",
+    "currency": "EUR",
+    "languages": [
+      "en",
+      "fr",
+      "nl"
+    ],
+    "code": "MF"
+  },
+  {
+    "name": "Martinique",
+    "native": "Martinique",
+    "phone": "596",
+    "capital": "Fort-de-France",
+    "currency": "EUR",
+    "languages": [
+      "fr"
+    ],
+    "code": "MQ"
+  },
+  {
+    "name": "Montserrat",
+    "native": "Montserrat",
+    "phone": "1664",
+    "capital": "Plymouth",
+    "currency": "XCD",
+    "languages": [
+      "en"
+    ],
+    "code": "MS"
+  },
+  {
+    "name": "Mexico",
+    "native": "México",
+    "phone": "52",
+    "capital": "Mexico City",
+    "currency": "MXN",
+    "languages": [
+      "es"
+    ],
+    "code": "MX"
+  },
+  {
+    "name": "Nicaragua",
+    "native": "Nicaragua",
+    "phone": "505",
+    "capital": "Managua",
+    "currency": "NIO",
+    "languages": [
+      "es"
+    ],
+    "code": "NI"
+  },
+  {
+    "name": "Panama",
+    "native": "Panamá",
+    "phone": "507",
+    "capital": "Panama City",
+    "currency": "PAB,USD",
+    "languages": [
+      "es"
+    ],
+    "code": "PA"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "native": "Saint-Pierre-et-Miquelon",
+    "phone": "508",
+    "capital": "Saint-Pierre",
+    "currency": "EUR",
+    "languages": [
+      "fr"
+    ],
+    "code": "PM"
+  },
+  {
+    "name": "Puerto Rico",
+    "native": "Puerto Rico",
+    "phone": "1787,1939",
+    "capital": "San Juan",
+    "currency": "USD",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "code": "PR"
+  },
+  {
+    "name": "El Salvador",
+    "native": "El Salvador",
+    "phone": "503",
+    "capital": "San Salvador",
+    "currency": "SVC,USD",
+    "languages": [
+      "es"
+    ],
+    "code": "SV"
+  },
+  {
+    "name": "Sint Maarten",
+    "native": "Sint Maarten",
+    "phone": "1721",
+    "capital": "Philipsburg",
+    "currency": "ANG",
+    "languages": [
+      "nl",
+      "en"
+    ],
+    "code": "SX"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "native": "Turks and Caicos Islands",
+    "phone": "1649",
+    "capital": "Cockburn Town",
+    "currency": "USD",
+    "languages": [
+      "en"
+    ],
+    "code": "TC"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "native": "Trinidad and Tobago",
+    "phone": "1868",
+    "capital": "Port of Spain",
+    "currency": "TTD",
+    "languages": [
+      "en"
+    ],
+    "code": "TT"
+  },
+  {
+    "name": "United States",
+    "native": "United States",
+    "phone": "1",
+    "capital": "Washington D.C.",
+    "currency": "USD,USN,USS",
+    "languages": [
+      "en"
+    ],
+    "code": "US"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "native": "Saint Vincent and the Grenadines",
+    "phone": "1784",
+    "capital": "Kingstown",
+    "currency": "XCD",
+    "languages": [
+      "en"
+    ],
+    "code": "VC"
+  },
+  {
+    "name": "British Virgin Islands",
+    "native": "British Virgin Islands",
+    "phone": "1284",
+    "capital": "Road Town",
+    "currency": "USD",
+    "languages": [
+      "en"
+    ],
+    "code": "VG"
+  },
+  {
+    "name": "U.S. Virgin Islands",
+    "native": "United States Virgin Islands",
+    "phone": "1340",
+    "capital": "Charlotte Amalie",
+    "currency": "USD",
+    "languages": [
+      "en"
+    ],
+    "code": "VI"
+  }
+]

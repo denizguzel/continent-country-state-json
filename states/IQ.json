@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Al Anbar",
+    "state_code": "AN",
+    "latitude": "32.55976140",
+    "longitude": "41.91964710"
+  },
+  {
+    "name": "Al Muthanna",
+    "state_code": "MU",
+    "latitude": "29.91331710",
+    "longitude": "45.29938620"
+  },
+  {
+    "name": "Al-Qādisiyyah",
+    "state_code": "QA",
+    "latitude": "32.04369100",
+    "longitude": "45.14945050"
+  },
+  {
+    "name": "Babylon",
+    "state_code": "BB",
+    "latitude": "32.46819100",
+    "longitude": "44.55019350"
+  },
+  {
+    "name": "Baghdad",
+    "state_code": "BG",
+    "latitude": "33.31526180",
+    "longitude": "44.36606530"
+  },
+  {
+    "name": "Basra",
+    "state_code": "BA",
+    "latitude": "30.51142520",
+    "longitude": "47.82962530"
+  },
+  {
+    "name": "Dhi Qar",
+    "state_code": "DQ",
+    "latitude": "31.10422920",
+    "longitude": "46.36246860"
+  },
+  {
+    "name": "Diyala",
+    "state_code": "DI",
+    "latitude": "33.77334870",
+    "longitude": "45.14945050"
+  },
+  {
+    "name": "Dohuk",
+    "state_code": "DA",
+    "latitude": "36.90772520",
+    "longitude": "43.06316890"
+  },
+  {
+    "name": "Erbil",
+    "state_code": "AR",
+    "latitude": "36.55706280",
+    "longitude": "44.38512630"
+  },
+  {
+    "name": "Karbala",
+    "state_code": "KA",
+    "latitude": "32.40454930",
+    "longitude": "43.86732220"
+  },
+  {
+    "name": "Kirkuk",
+    "state_code": "KI",
+    "latitude": "35.32920140",
+    "longitude": "43.94367880"
+  },
+  {
+    "name": "Maysan",
+    "state_code": "MA",
+    "latitude": "31.87340020",
+    "longitude": "47.13621250"
+  },
+  {
+    "name": "Najaf",
+    "state_code": "NA",
+    "latitude": "31.35174860",
+    "longitude": "44.09603110"
+  },
+  {
+    "name": "Nineveh",
+    "state_code": "NI",
+    "latitude": "36.22957400",
+    "longitude": "42.23624350"
+  },
+  {
+    "name": "Saladin",
+    "state_code": "SD",
+    "latitude": "34.53375270",
+    "longitude": "43.48373800"
+  },
+  {
+    "name": "Sulaymaniyah",
+    "state_code": "SU",
+    "latitude": "35.54663480",
+    "longitude": "45.30036830"
+  },
+  {
+    "name": "Wasit",
+    "state_code": "WA",
+    "latitude": "32.60240940",
+    "longitude": "45.75209850"
+  }
+]

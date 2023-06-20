@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Bomi County",
+    "state_code": "BM",
+    "latitude": "6.75629260",
+    "longitude": "-10.84514670"
+  },
+  {
+    "name": "Bong County",
+    "state_code": "BG",
+    "latitude": "6.82950190",
+    "longitude": "-9.36730840"
+  },
+  {
+    "name": "Gbarpolu County",
+    "state_code": "GP",
+    "latitude": "7.49526370",
+    "longitude": "-10.08072980"
+  },
+  {
+    "name": "Grand Bassa County",
+    "state_code": "GB",
+    "latitude": "6.23084520",
+    "longitude": "-9.81249350"
+  },
+  {
+    "name": "Grand Cape Mount County",
+    "state_code": "CM",
+    "latitude": "7.04677580",
+    "longitude": "-11.07117580"
+  },
+  {
+    "name": "Grand Gedeh County",
+    "state_code": "GG",
+    "latitude": "5.92220780",
+    "longitude": "-8.22129790"
+  },
+  {
+    "name": "Grand Kru County",
+    "state_code": "GK",
+    "latitude": "4.76138620",
+    "longitude": "-8.22129790"
+  },
+  {
+    "name": "Lofa County",
+    "state_code": "LO",
+    "latitude": "8.19111840",
+    "longitude": "-9.72326730"
+  },
+  {
+    "name": "Margibi County",
+    "state_code": "MG",
+    "latitude": "6.51518750",
+    "longitude": "-10.30488970"
+  },
+  {
+    "name": "Maryland County",
+    "state_code": "MY",
+    "latitude": "39.04575490",
+    "longitude": "-76.64127120"
+  },
+  {
+    "name": "Montserrado County",
+    "state_code": "MO",
+    "latitude": "6.55258150",
+    "longitude": "-10.52961150"
+  },
+  {
+    "name": "Nimba",
+    "state_code": "NI",
+    "latitude": "7.61666670",
+    "longitude": "-8.41666670"
+  },
+  {
+    "name": "River Cess County",
+    "state_code": "RI",
+    "latitude": "5.90253280",
+    "longitude": "-9.45615500"
+  },
+  {
+    "name": "River Gee County",
+    "state_code": "RG",
+    "latitude": "5.26048940",
+    "longitude": "-7.87216000"
+  },
+  {
+    "name": "Sinoe County",
+    "state_code": "SI",
+    "latitude": "5.49871000",
+    "longitude": "-8.66005860"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Adamawa",
+    "state_code": "AD",
+    "latitude": "9.32647510",
+    "longitude": "12.39838530"
+  },
+  {
+    "name": "Centre",
+    "state_code": "CE",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "East",
+    "state_code": "ES",
+    "latitude": "39.01853360",
+    "longitude": "-94.27924110"
+  },
+  {
+    "name": "Far North",
+    "state_code": "EN",
+    "latitude": "66.76134510",
+    "longitude": "124.12375300"
+  },
+  {
+    "name": "Littoral",
+    "state_code": "LT",
+    "latitude": "48.46227570",
+    "longitude": "-68.51780710"
+  },
+  {
+    "name": "North",
+    "state_code": "NO",
+    "latitude": "37.09024000",
+    "longitude": "-95.71289100"
+  },
+  {
+    "name": "Northwest",
+    "state_code": "NW",
+    "latitude": "36.37118570",
+    "longitude": "-94.19346060"
+  },
+  {
+    "name": "South",
+    "state_code": "SU",
+    "latitude": "37.63159500",
+    "longitude": "-97.34584090"
+  },
+  {
+    "name": "Southwest",
+    "state_code": "SW",
+    "latitude": "36.19088130",
+    "longitude": "-95.88974480"
+  },
+  {
+    "name": "West",
+    "state_code": "OU",
+    "latitude": "37.03649890",
+    "longitude": "-95.67059870"
+  }
+]

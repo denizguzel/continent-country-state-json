@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Agder",
+    "state_code": "42",
+    "latitude": "58.74069340",
+    "longitude": "6.75315210"
+  },
+  {
+    "name": "Innlandet",
+    "state_code": "34",
+    "latitude": "61.19357870",
+    "longitude": "5.50832660"
+  },
+  {
+    "name": "Jan Mayen",
+    "state_code": "22",
+    "latitude": "71.03181800",
+    "longitude": "-8.29203460"
+  },
+  {
+    "name": "Møre og Romsdal",
+    "state_code": "15",
+    "latitude": "62.84068330",
+    "longitude": "7.00714300"
+  },
+  {
+    "name": "Nordland",
+    "state_code": "18",
+    "latitude": "67.69305800",
+    "longitude": "12.70739360"
+  },
+  {
+    "name": "Oslo",
+    "state_code": "03",
+    "latitude": "59.91386880",
+    "longitude": "10.75224540"
+  },
+  {
+    "name": "Rogaland",
+    "state_code": "11",
+    "latitude": "59.14895440",
+    "longitude": "6.01434320"
+  },
+  {
+    "name": "Svalbard",
+    "state_code": "21",
+    "latitude": "77.87497250",
+    "longitude": "20.97518210"
+  },
+  {
+    "name": "Troms og Finnmark",
+    "state_code": "54",
+    "latitude": "69.77890670",
+    "longitude": "18.99401840"
+  },
+  {
+    "name": "Trøndelag",
+    "state_code": "50",
+    "latitude": "63.54201250",
+    "longitude": "10.93692670"
+  },
+  {
+    "name": "Vestfold og Telemark",
+    "state_code": "38",
+    "latitude": "59.41174820",
+    "longitude": "7.76471750"
+  },
+  {
+    "name": "Vestland",
+    "state_code": "46",
+    "latitude": "60.90694420",
+    "longitude": "3.96270810"
+  },
+  {
+    "name": "Viken",
+    "state_code": "30",
+    "latitude": "59.96530050",
+    "longitude": "7.45051440"
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "name": "Agadir-Ida-Ou-Tanane",
+    "state_code": "AGD",
+    "latitude": "30.64620910",
+    "longitude": "-9.83390610"
+  },
+  {
+    "name": "Al Haouz",
+    "state_code": "HAO",
+    "latitude": "31.29567290",
+    "longitude": "-7.87216000"
+  },
+  {
+    "name": "Al Hoceïma",
+    "state_code": "HOC",
+    "latitude": "35.24455890",
+    "longitude": "-3.93174680"
+  },
+  {
+    "name": "Aousserd (EH)",
+    "state_code": "AOU",
+    "latitude": "22.55215380",
+    "longitude": "-14.32973530"
+  },
+  {
+    "name": "Assa-Zag (EH-partial)",
+    "state_code": "ASZ",
+    "latitude": "28.14023950",
+    "longitude": "-9.72326730"
+  },
+  {
+    "name": "Azilal",
+    "state_code": "AZI",
+    "latitude": "32.00426200",
+    "longitude": "-6.57833870"
+  },
+  {
+    "name": "Béni Mellal",
+    "state_code": "BEM",
+    "latitude": "32.34244300",
+    "longitude": "-6.37579900"
+  },
+  {
+    "name": "Béni Mellal-Khénifra",
+    "state_code": "05",
+    "latitude": "32.57191840",
+    "longitude": "-6.06791940"
+  },
+  {
+    "name": "Benslimane",
+    "state_code": "BES",
+    "latitude": "33.61896980",
+    "longitude": "-7.13055360"
+  },
+  {
+    "name": "Berkane",
+    "state_code": "BER",
+    "latitude": "34.88408760",
+    "longitude": "-2.34188700"
+  },
+  {
+    "name": "Berrechid",
+    "state_code": "BRR",
+    "latitude": "33.26025230",
+    "longitude": "-7.59848370"
+  },
+  {
+    "name": "Boujdour (EH)",
+    "state_code": "BOD",
+    "latitude": "26.12524930",
+    "longitude": "-14.48473470"
+  },
+  {
+    "name": "Boulemane",
+    "state_code": "BOM",
+    "latitude": "33.36251590",
+    "longitude": "-4.73033970"
+  },
+  {
+    "name": "Casablanca",
+    "state_code": "CAS",
+    "latitude": "33.57226780",
+    "longitude": "-7.65703260"
+  },
+  {
+    "name": "Casablanca-Settat",
+    "state_code": "06",
+    "latitude": "33.21608720",
+    "longitude": "-7.43813550"
+  },
+  {
+    "name": "Chefchaouen",
+    "state_code": "CHE",
+    "latitude": "35.01817200",
+    "longitude": "-5.14320680"
+  },
+  {
+    "name": "Chichaoua",
+    "state_code": "CHI",
+    "latitude": "31.53835810",
+    "longitude": "-8.76463880"
+  },
+  {
+    "name": "Chtouka-Ait Baha",
+    "state_code": "CHT",
+    "latitude": "30.10724220",
+    "longitude": "-9.27855830"
+  },
+  {
+    "name": "Dakhla-Oued Ed-Dahab (EH)",
+    "state_code": "12",
+    "latitude": "22.73378920",
+    "longitude": "-14.28611160"
+  },
+  {
+    "name": "Drâa-Tafilalet",
+    "state_code": "08",
+    "latitude": "31.14995380",
+    "longitude": "-5.39395510"
+  },
+  {
+    "name": "Driouch",
+    "state_code": "DRI",
+    "latitude": "34.97603200",
+    "longitude": "-3.39644930"
+  },
+  {
+    "name": "El Hajeb",
+    "state_code": "HAJ",
+    "latitude": "33.68573500",
+    "longitude": "-5.36778440"
+  },
+  {
+    "name": "El Jadida",
+    "state_code": "JDI",
+    "latitude": "33.23163260",
+    "longitude": "-8.50071160"
+  },
+  {
+    "name": "El Kelâa des Sraghna",
+    "state_code": "KES",
+    "latitude": "32.05227670",
+    "longitude": "-7.35165580"
+  },
+  {
+    "name": "Errachidia",
+    "state_code": "ERR",
+    "latitude": "31.90512750",
+    "longitude": "-4.72775280"
+  },
+  {
+    "name": "Es-Semara (EH-partial)",
+    "state_code": "ESM",
+    "latitude": "26.74185600",
+    "longitude": "-11.67836710"
+  },
+  {
+    "name": "Essaouira",
+    "state_code": "ESI",
+    "latitude": "31.50849260",
+    "longitude": "-9.75950410"
+  },
+  {
+    "name": "Fahs-Anjra",
+    "state_code": "FAH",
+    "latitude": "35.76019920",
+    "longitude": "-5.66683060"
+  },
+  {
+    "name": "Fès",
+    "state_code": "FES",
+    "latitude": "34.02395790",
+    "longitude": "-5.03675990"
+  },
+  {
+    "name": "Fès-Meknès",
+    "state_code": "03",
+    "latitude": "34.06252900",
+    "longitude": "-4.72775280"
+  },
+  {
+    "name": "Figuig",
+    "state_code": "FIG",
+    "latitude": "32.10926130",
+    "longitude": "-1.22980600"
+  },
+  {
+    "name": "Fquih Ben Salah",
+    "state_code": "FQH",
+    "latitude": "32.50016800",
+    "longitude": "-6.71007170"
+  },
+  {
+    "name": "Guelmim",
+    "state_code": "GUE",
+    "latitude": "28.98836590",
+    "longitude": "-10.05274980"
+  },
+  {
+    "name": "Guelmim-Oued Noun (EH-partial)",
+    "state_code": "10",
+    "latitude": "28.48442810",
+    "longitude": "-10.08072980"
+  },
+  {
+    "name": "Guercif",
+    "state_code": "GUF",
+    "latitude": "34.23450360",
+    "longitude": "-3.38130050"
+  },
+  {
+    "name": "Ifrane",
+    "state_code": "IFR",
+    "latitude": "33.52280620",
+    "longitude": "-5.11095520"
+  },
+  {
+    "name": "Inezgane-Ait Melloul",
+    "state_code": "INE",
+    "latitude": "30.35090980",
+    "longitude": "-9.38951100"
+  },
+  {
+    "name": "Jerada",
+    "state_code": "JRA",
+    "latitude": "34.30617910",
+    "longitude": "-2.17941360"
+  },
+  {
+    "name": "Kénitra",
+    "state_code": "KEN",
+    "latitude": "34.25405030",
+    "longitude": "-6.58901660"
+  },
+  {
+    "name": "Khémisset",
+    "state_code": "KHE",
+    "latitude": "33.81537040",
+    "longitude": "-6.05733020"
+  },
+  {
+    "name": "Khénifra",
+    "state_code": "KHN",
+    "latitude": "32.93404710",
+    "longitude": "-5.66157100"
+  },
+  {
+    "name": "Khouribga",
+    "state_code": "KHO",
+    "latitude": "32.88602300",
+    "longitude": "-6.92086550"
+  },
+  {
+    "name": "L'Oriental",
+    "state_code": "02",
+    "latitude": "37.06968300",
+    "longitude": "-94.51227700"
+  },
+  {
+    "name": "Laâyoune (EH)",
+    "state_code": "LAA",
+    "latitude": "27.15003840",
+    "longitude": "-13.19907580"
+  },
+  {
+    "name": "Laâyoune-Sakia El Hamra (EH-partial)",
+    "state_code": "11",
+    "latitude": "27.86831940",
+    "longitude": "-11.98046130"
+  },
+  {
+    "name": "Larache",
+    "state_code": "LAR",
+    "latitude": "35.17442710",
+    "longitude": "-6.14739640"
+  },
+  {
+    "name": "M’diq-Fnideq",
+    "state_code": "MDF",
+    "latitude": "35.77330190",
+    "longitude": "-5.51433000"
+  },
+  {
+    "name": "Marrakech",
+    "state_code": "MAR",
+    "latitude": "31.63460230",
+    "longitude": "-8.07789320"
+  },
+  {
+    "name": "Marrakesh-Safi",
+    "state_code": "07",
+    "latitude": "31.73308330",
+    "longitude": "-8.13385580"
+  },
+  {
+    "name": "Médiouna",
+    "state_code": "MED",
+    "latitude": "33.45409390",
+    "longitude": "-7.51660200"
+  },
+  {
+    "name": "Meknès",
+    "state_code": "MEK",
+    "latitude": "33.88100000",
+    "longitude": "-5.57303970"
+  },
+  {
+    "name": "Midelt",
+    "state_code": "MID",
+    "latitude": "32.68550790",
+    "longitude": "-4.75017090"
+  },
+  {
+    "name": "Mohammadia",
+    "state_code": "MOH",
+    "latitude": "33.68737490",
+    "longitude": "-7.42391420"
+  },
+  {
+    "name": "Moulay Yacoub",
+    "state_code": "MOU",
+    "latitude": "34.08744790",
+    "longitude": "-5.17840190"
+  },
+  {
+    "name": "Nador",
+    "state_code": "NAD",
+    "latitude": "34.91719260",
+    "longitude": "-2.85771050"
+  },
+  {
+    "name": "Nouaceur",
+    "state_code": "NOU",
+    "latitude": "33.36703930",
+    "longitude": "-7.57325370"
+  },
+  {
+    "name": "Ouarzazate",
+    "state_code": "OUA",
+    "latitude": "30.93354360",
+    "longitude": "-6.93701600"
+  },
+  {
+    "name": "Oued Ed-Dahab (EH)",
+    "state_code": "OUD",
+    "latitude": "22.73378920",
+    "longitude": "-14.28611160"
+  },
+  {
+    "name": "Ouezzane",
+    "state_code": "OUZ",
+    "latitude": "34.80634500",
+    "longitude": "-5.59145050"
+  },
+  {
+    "name": "Oujda-Angad",
+    "state_code": "OUJ",
+    "latitude": "34.68375040",
+    "longitude": "-2.29932390"
+  },
+  {
+    "name": "Rabat",
+    "state_code": "RAB",
+    "latitude": "33.96919900",
+    "longitude": "-6.92730290"
+  },
+  {
+    "name": "Rabat-Salé-Kénitra",
+    "state_code": "04",
+    "latitude": "34.07686400",
+    "longitude": "-7.34544760"
+  },
+  {
+    "name": "Rehamna",
+    "state_code": "REH",
+    "latitude": "32.20329050",
+    "longitude": "-8.56896710"
+  },
+  {
+    "name": "Safi",
+    "state_code": "SAF",
+    "latitude": "32.29898720",
+    "longitude": "-9.10134980"
+  },
+  {
+    "name": "Salé",
+    "state_code": "SAL",
+    "latitude": "34.03775700",
+    "longitude": "-6.84270730"
+  },
+  {
+    "name": "Sefrou",
+    "state_code": "SEF",
+    "latitude": "33.83052440",
+    "longitude": "-4.83531540"
+  },
+  {
+    "name": "Settat",
+    "state_code": "SET",
+    "latitude": "32.99242420",
+    "longitude": "-7.62226650"
+  },
+  {
+    "name": "Sidi Bennour",
+    "state_code": "SIB",
+    "latitude": "32.64926020",
+    "longitude": "-8.44714530"
+  },
+  {
+    "name": "Sidi Ifni",
+    "state_code": "SIF",
+    "latitude": "29.36657970",
+    "longitude": "-10.21084850"
+  },
+  {
+    "name": "Sidi Kacem",
+    "state_code": "SIK",
+    "latitude": "34.22601720",
+    "longitude": "-5.71291640"
+  },
+  {
+    "name": "Sidi Slimane",
+    "state_code": "SIL",
+    "latitude": "34.27378280",
+    "longitude": "-5.98059720"
+  },
+  {
+    "name": "Skhirate-Témara",
+    "state_code": "SKH",
+    "latitude": "33.76224250",
+    "longitude": "-7.04190520"
+  },
+  {
+    "name": "Souss-Massa",
+    "state_code": "09",
+    "latitude": "30.27506110",
+    "longitude": "-8.13385580"
+  },
+  {
+    "name": "Tan-Tan (EH-partial)",
+    "state_code": "TNT",
+    "latitude": "28.03012000",
+    "longitude": "-11.16173560"
+  },
+  {
+    "name": "Tanger-Assilah",
+    "state_code": "TNG",
+    "latitude": "35.76325390",
+    "longitude": "-5.90450980"
+  },
+  {
+    "name": "Tanger-Tétouan-Al Hoceïma",
+    "state_code": "01",
+    "latitude": "35.26295580",
+    "longitude": "-5.56172790"
+  },
+  {
+    "name": "Taounate",
+    "state_code": "TAO",
+    "latitude": "34.53691700",
+    "longitude": "-4.63986930"
+  },
+  {
+    "name": "Taourirt",
+    "state_code": "TAI",
+    "latitude": "34.21259800",
+    "longitude": "-2.69838680"
+  },
+  {
+    "name": "Tarfaya (EH-partial)",
+    "state_code": "TAF",
+    "latitude": "27.93777010",
+    "longitude": "-12.92940630"
+  },
+  {
+    "name": "Taroudannt",
+    "state_code": "TAR",
+    "latitude": "30.47271260",
+    "longitude": "-8.87487650"
+  },
+  {
+    "name": "Tata",
+    "state_code": "TAT",
+    "latitude": "29.75087700",
+    "longitude": "-7.97563430"
+  },
+  {
+    "name": "Taza",
+    "state_code": "TAZ",
+    "latitude": "34.27889530",
+    "longitude": "-3.58126920"
+  },
+  {
+    "name": "Tétouan",
+    "state_code": "TET",
+    "latitude": "35.58889950",
+    "longitude": "-5.36255160"
+  },
+  {
+    "name": "Tinghir",
+    "state_code": "TIN",
+    "latitude": "31.48507940",
+    "longitude": "-6.20192980"
+  },
+  {
+    "name": "Tiznit",
+    "state_code": "TIZ",
+    "latitude": "29.69339200",
+    "longitude": "-9.73215700"
+  },
+  {
+    "name": "Youssoufia",
+    "state_code": "YUS",
+    "latitude": "32.02006790",
+    "longitude": "-8.86926480"
+  },
+  {
+    "name": "Zagora",
+    "state_code": "ZAG",
+    "latitude": "30.57860930",
+    "longitude": "-5.89871390"
+  }
+]

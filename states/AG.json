@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Barbuda",
+    "state_code": "10",
+    "latitude": "17.62662420",
+    "longitude": "-61.77130280"
+  },
+  {
+    "name": "Redonda",
+    "state_code": "11",
+    "latitude": "16.93841600",
+    "longitude": "-62.34551480"
+  },
+  {
+    "name": "Saint George Parish",
+    "state_code": "03",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Saint John Parish",
+    "state_code": "04",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Saint Mary Parish",
+    "state_code": "05",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Saint Paul Parish",
+    "state_code": "06",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Saint Peter Parish",
+    "state_code": "07",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Saint Philip Parish",
+    "state_code": "08",
+    "latitude": "40.43682580",
+    "longitude": "-80.06855320"
+  }
+]

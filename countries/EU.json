@@ -1,0 +1,614 @@
+[
+  {
+    "name": "Andorra",
+    "native": "Andorra",
+    "phone": "376",
+    "capital": "Andorra la Vella",
+    "currency": "EUR",
+    "languages": [
+      "ca"
+    ],
+    "code": "AD"
+  },
+  {
+    "name": "Albania",
+    "native": "Shqipëria",
+    "phone": "355",
+    "capital": "Tirana",
+    "currency": "ALL",
+    "languages": [
+      "sq"
+    ],
+    "code": "AL"
+  },
+  {
+    "name": "Austria",
+    "native": "Österreich",
+    "phone": "43",
+    "capital": "Vienna",
+    "currency": "EUR",
+    "languages": [
+      "de"
+    ],
+    "code": "AT"
+  },
+  {
+    "name": "Åland",
+    "native": "Åland",
+    "phone": "358",
+    "capital": "Mariehamn",
+    "currency": "EUR",
+    "languages": [
+      "sv"
+    ],
+    "code": "AX"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "native": "Bosna i Hercegovina",
+    "phone": "387",
+    "capital": "Sarajevo",
+    "currency": "BAM",
+    "languages": [
+      "bs",
+      "hr",
+      "sr"
+    ],
+    "code": "BA"
+  },
+  {
+    "name": "Belgium",
+    "native": "België",
+    "phone": "32",
+    "capital": "Brussels",
+    "currency": "EUR",
+    "languages": [
+      "nl",
+      "fr",
+      "de"
+    ],
+    "code": "BE"
+  },
+  {
+    "name": "Bulgaria",
+    "native": "България",
+    "phone": "359",
+    "capital": "Sofia",
+    "currency": "BGN",
+    "languages": [
+      "bg"
+    ],
+    "code": "BG"
+  },
+  {
+    "name": "Belarus",
+    "native": "Белару́сь",
+    "phone": "375",
+    "capital": "Minsk",
+    "currency": "BYR",
+    "languages": [
+      "be",
+      "ru"
+    ],
+    "code": "BY"
+  },
+  {
+    "name": "Switzerland",
+    "native": "Schweiz",
+    "phone": "41",
+    "capital": "Bern",
+    "currency": "CHE,CHF,CHW",
+    "languages": [
+      "de",
+      "fr",
+      "it"
+    ],
+    "code": "CH"
+  },
+  {
+    "name": "Cyprus",
+    "native": "Κύπρος",
+    "phone": "357",
+    "capital": "Nicosia",
+    "currency": "EUR",
+    "languages": [
+      "el",
+      "tr",
+      "hy"
+    ],
+    "code": "CY"
+  },
+  {
+    "name": "Czech Republic",
+    "native": "Česká republika",
+    "phone": "420",
+    "capital": "Prague",
+    "currency": "CZK",
+    "languages": [
+      "cs",
+      "sk"
+    ],
+    "code": "CZ"
+  },
+  {
+    "name": "Germany",
+    "native": "Deutschland",
+    "phone": "49",
+    "capital": "Berlin",
+    "currency": "EUR",
+    "languages": [
+      "de"
+    ],
+    "code": "DE"
+  },
+  {
+    "name": "Denmark",
+    "native": "Danmark",
+    "phone": "45",
+    "capital": "Copenhagen",
+    "currency": "DKK",
+    "languages": [
+      "da"
+    ],
+    "code": "DK"
+  },
+  {
+    "name": "Estonia",
+    "native": "Eesti",
+    "phone": "372",
+    "capital": "Tallinn",
+    "currency": "EUR",
+    "languages": [
+      "et"
+    ],
+    "code": "EE"
+  },
+  {
+    "name": "Spain",
+    "native": "España",
+    "phone": "34",
+    "capital": "Madrid",
+    "currency": "EUR",
+    "languages": [
+      "es",
+      "eu",
+      "ca",
+      "gl",
+      "oc"
+    ],
+    "code": "ES"
+  },
+  {
+    "name": "Finland",
+    "native": "Suomi",
+    "phone": "358",
+    "capital": "Helsinki",
+    "currency": "EUR",
+    "languages": [
+      "fi",
+      "sv"
+    ],
+    "code": "FI"
+  },
+  {
+    "name": "Faroe Islands",
+    "native": "Føroyar",
+    "phone": "298",
+    "capital": "Tórshavn",
+    "currency": "DKK",
+    "languages": [
+      "fo"
+    ],
+    "code": "FO"
+  },
+  {
+    "name": "France",
+    "native": "France",
+    "phone": "33",
+    "capital": "Paris",
+    "currency": "EUR",
+    "languages": [
+      "fr"
+    ],
+    "code": "FR"
+  },
+  {
+    "name": "United Kingdom",
+    "native": "United Kingdom",
+    "phone": "44",
+    "capital": "London",
+    "currency": "GBP",
+    "languages": [
+      "en"
+    ],
+    "code": "GB"
+  },
+  {
+    "name": "Guernsey",
+    "native": "Guernsey",
+    "phone": "44",
+    "capital": "St. Peter Port",
+    "currency": "GBP",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "code": "GG"
+  },
+  {
+    "name": "Gibraltar",
+    "native": "Gibraltar",
+    "phone": "350",
+    "capital": "Gibraltar",
+    "currency": "GIP",
+    "languages": [
+      "en"
+    ],
+    "code": "GI"
+  },
+  {
+    "name": "Greece",
+    "native": "Ελλάδα",
+    "phone": "30",
+    "capital": "Athens",
+    "currency": "EUR",
+    "languages": [
+      "el"
+    ],
+    "code": "GR"
+  },
+  {
+    "name": "Croatia",
+    "native": "Hrvatska",
+    "phone": "385",
+    "capital": "Zagreb",
+    "currency": "HRK",
+    "languages": [
+      "hr"
+    ],
+    "code": "HR"
+  },
+  {
+    "name": "Hungary",
+    "native": "Magyarország",
+    "phone": "36",
+    "capital": "Budapest",
+    "currency": "HUF",
+    "languages": [
+      "hu"
+    ],
+    "code": "HU"
+  },
+  {
+    "name": "Ireland",
+    "native": "Éire",
+    "phone": "353",
+    "capital": "Dublin",
+    "currency": "EUR",
+    "languages": [
+      "ga",
+      "en"
+    ],
+    "code": "IE"
+  },
+  {
+    "name": "Isle of Man",
+    "native": "Isle of Man",
+    "phone": "44",
+    "capital": "Douglas",
+    "currency": "GBP",
+    "languages": [
+      "en",
+      "gv"
+    ],
+    "code": "IM"
+  },
+  {
+    "name": "Iceland",
+    "native": "Ísland",
+    "phone": "354",
+    "capital": "Reykjavik",
+    "currency": "ISK",
+    "languages": [
+      "is"
+    ],
+    "code": "IS"
+  },
+  {
+    "name": "Italy",
+    "native": "Italia",
+    "phone": "39",
+    "capital": "Rome",
+    "currency": "EUR",
+    "languages": [
+      "it"
+    ],
+    "code": "IT"
+  },
+  {
+    "name": "Jersey",
+    "native": "Jersey",
+    "phone": "44",
+    "capital": "Saint Helier",
+    "currency": "GBP",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "code": "JE"
+  },
+  {
+    "name": "Liechtenstein",
+    "native": "Liechtenstein",
+    "phone": "423",
+    "capital": "Vaduz",
+    "currency": "CHF",
+    "languages": [
+      "de"
+    ],
+    "code": "LI"
+  },
+  {
+    "name": "Lithuania",
+    "native": "Lietuva",
+    "phone": "370",
+    "capital": "Vilnius",
+    "currency": "LTL",
+    "languages": [
+      "lt"
+    ],
+    "code": "LT"
+  },
+  {
+    "name": "Luxembourg",
+    "native": "Luxembourg",
+    "phone": "352",
+    "capital": "Luxembourg",
+    "currency": "EUR",
+    "languages": [
+      "fr",
+      "de",
+      "lb"
+    ],
+    "code": "LU"
+  },
+  {
+    "name": "Latvia",
+    "native": "Latvija",
+    "phone": "371",
+    "capital": "Riga",
+    "currency": "EUR",
+    "languages": [
+      "lv"
+    ],
+    "code": "LV"
+  },
+  {
+    "name": "Monaco",
+    "native": "Monaco",
+    "phone": "377",
+    "capital": "Monaco",
+    "currency": "EUR",
+    "languages": [
+      "fr"
+    ],
+    "code": "MC"
+  },
+  {
+    "name": "Moldova",
+    "native": "Moldova",
+    "phone": "373",
+    "capital": "Chișinău",
+    "currency": "MDL",
+    "languages": [
+      "ro"
+    ],
+    "code": "MD"
+  },
+  {
+    "name": "Montenegro",
+    "native": "Црна Гора",
+    "phone": "382",
+    "capital": "Podgorica",
+    "currency": "EUR",
+    "languages": [
+      "sr",
+      "bs",
+      "sq",
+      "hr"
+    ],
+    "code": "ME"
+  },
+  {
+    "name": "Macedonia",
+    "native": "Македонија",
+    "phone": "389",
+    "capital": "Skopje",
+    "currency": "MKD",
+    "languages": [
+      "mk"
+    ],
+    "code": "MK"
+  },
+  {
+    "name": "Malta",
+    "native": "Malta",
+    "phone": "356",
+    "capital": "Valletta",
+    "currency": "EUR",
+    "languages": [
+      "mt",
+      "en"
+    ],
+    "code": "MT"
+  },
+  {
+    "name": "Netherlands",
+    "native": "Nederland",
+    "phone": "31",
+    "capital": "Amsterdam",
+    "currency": "EUR",
+    "languages": [
+      "nl"
+    ],
+    "code": "NL"
+  },
+  {
+    "name": "Norway",
+    "native": "Norge",
+    "phone": "47",
+    "capital": "Oslo",
+    "currency": "NOK",
+    "languages": [
+      "no",
+      "nb",
+      "nn"
+    ],
+    "code": "NO"
+  },
+  {
+    "name": "Poland",
+    "native": "Polska",
+    "phone": "48",
+    "capital": "Warsaw",
+    "currency": "PLN",
+    "languages": [
+      "pl"
+    ],
+    "code": "PL"
+  },
+  {
+    "name": "Portugal",
+    "native": "Portugal",
+    "phone": "351",
+    "capital": "Lisbon",
+    "currency": "EUR",
+    "languages": [
+      "pt"
+    ],
+    "code": "PT"
+  },
+  {
+    "name": "Romania",
+    "native": "România",
+    "phone": "40",
+    "capital": "Bucharest",
+    "currency": "RON",
+    "languages": [
+      "ro"
+    ],
+    "code": "RO"
+  },
+  {
+    "name": "Serbia",
+    "native": "Србија",
+    "phone": "381",
+    "capital": "Belgrade",
+    "currency": "RSD",
+    "languages": [
+      "sr"
+    ],
+    "code": "RS"
+  },
+  {
+    "name": "Russia",
+    "native": "Россия",
+    "phone": "7",
+    "capital": "Moscow",
+    "currency": "RUB",
+    "languages": [
+      "ru"
+    ],
+    "code": "RU"
+  },
+  {
+    "name": "Sweden",
+    "native": "Sverige",
+    "phone": "46",
+    "capital": "Stockholm",
+    "currency": "SEK",
+    "languages": [
+      "sv"
+    ],
+    "code": "SE"
+  },
+  {
+    "name": "Slovenia",
+    "native": "Slovenija",
+    "phone": "386",
+    "capital": "Ljubljana",
+    "currency": "EUR",
+    "languages": [
+      "sl"
+    ],
+    "code": "SI"
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "native": "Svalbard og Jan Mayen",
+    "phone": "4779",
+    "capital": "Longyearbyen",
+    "currency": "NOK",
+    "languages": [
+      "no"
+    ],
+    "code": "SJ"
+  },
+  {
+    "name": "Slovakia",
+    "native": "Slovensko",
+    "phone": "421",
+    "capital": "Bratislava",
+    "currency": "EUR",
+    "languages": [
+      "sk"
+    ],
+    "code": "SK"
+  },
+  {
+    "name": "San Marino",
+    "native": "San Marino",
+    "phone": "378",
+    "capital": "City of San Marino",
+    "currency": "EUR",
+    "languages": [
+      "it"
+    ],
+    "code": "SM"
+  },
+  {
+    "name": "Ukraine",
+    "native": "Україна",
+    "phone": "380",
+    "capital": "Kyiv",
+    "currency": "UAH",
+    "languages": [
+      "uk"
+    ],
+    "code": "UA"
+  },
+  {
+    "name": "Vatican City",
+    "native": "Vaticano",
+    "phone": "39066,379",
+    "capital": "Vatican City",
+    "currency": "EUR",
+    "languages": [
+      "it",
+      "la"
+    ],
+    "code": "VA"
+  },
+  {
+    "name": "Kosovo",
+    "native": "Republika e Kosovës",
+    "phone": "377,381,383,386",
+    "capital": "Pristina",
+    "currency": "EUR",
+    "languages": [
+      "sq",
+      "sr"
+    ],
+    "code": "XK"
+  }
+]

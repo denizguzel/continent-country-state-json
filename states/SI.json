@@ -1,0 +1,1268 @@
+[
+  {
+    "name": "Ajdovščina Municipality",
+    "state_code": "001",
+    "latitude": "45.88707760",
+    "longitude": "13.90428180"
+  },
+  {
+    "name": "Ankaran Municipality",
+    "state_code": "213",
+    "latitude": "45.57845100",
+    "longitude": "13.73691740"
+  },
+  {
+    "name": "Beltinci Municipality",
+    "state_code": "002",
+    "latitude": "46.60791530",
+    "longitude": "16.23651270"
+  },
+  {
+    "name": "Benedikt Municipality",
+    "state_code": "148",
+    "latitude": "46.61558410",
+    "longitude": "15.89572810"
+  },
+  {
+    "name": "Bistrica ob Sotli Municipality",
+    "state_code": "149",
+    "latitude": "46.05655790",
+    "longitude": "15.66259470"
+  },
+  {
+    "name": "Bled Municipality",
+    "state_code": "003",
+    "latitude": "46.36832660",
+    "longitude": "14.11457980"
+  },
+  {
+    "name": "Bloke Municipality",
+    "state_code": "150",
+    "latitude": "45.77281410",
+    "longitude": "14.50634590"
+  },
+  {
+    "name": "Bohinj Municipality",
+    "state_code": "004",
+    "latitude": "46.30056520",
+    "longitude": "13.94271950"
+  },
+  {
+    "name": "Borovnica Municipality",
+    "state_code": "005",
+    "latitude": "45.90445250",
+    "longitude": "14.38241890"
+  },
+  {
+    "name": "Bovec Municipality",
+    "state_code": "006",
+    "latitude": "46.33804950",
+    "longitude": "13.55241740"
+  },
+  {
+    "name": "Braslovče Municipality",
+    "state_code": "151",
+    "latitude": "46.28361920",
+    "longitude": "15.04183200"
+  },
+  {
+    "name": "Brda Municipality",
+    "state_code": "007",
+    "latitude": "45.99756520",
+    "longitude": "13.52704740"
+  },
+  {
+    "name": "Brežice Municipality",
+    "state_code": "009",
+    "latitude": "45.90410960",
+    "longitude": "15.59436390"
+  },
+  {
+    "name": "Brezovica Municipality",
+    "state_code": "008",
+    "latitude": "45.95593510",
+    "longitude": "14.43499520"
+  },
+  {
+    "name": "Cankova Municipality",
+    "state_code": "152",
+    "latitude": "46.71823700",
+    "longitude": "16.01972220"
+  },
+  {
+    "name": "Cerklje na Gorenjskem Municipality",
+    "state_code": "012",
+    "latitude": "46.25170540",
+    "longitude": "14.48579790"
+  },
+  {
+    "name": "Cerknica Municipality",
+    "state_code": "013",
+    "latitude": "45.79662550",
+    "longitude": "14.39217700"
+  },
+  {
+    "name": "Cerkno Municipality",
+    "state_code": "014",
+    "latitude": "46.12884140",
+    "longitude": "13.98940270"
+  },
+  {
+    "name": "Cerkvenjak Municipality",
+    "state_code": "153",
+    "latitude": "46.56707110",
+    "longitude": "15.94297530"
+  },
+  {
+    "name": "City Municipality of Celje",
+    "state_code": "011",
+    "latitude": "46.23974950",
+    "longitude": "15.26770630"
+  },
+  {
+    "name": "City Municipality of Novo Mesto",
+    "state_code": "085",
+    "latitude": "45.80108240",
+    "longitude": "15.17100890"
+  },
+  {
+    "name": "Črenšovci Municipality",
+    "state_code": "015",
+    "latitude": "46.57200290",
+    "longitude": "16.28773460"
+  },
+  {
+    "name": "Črna na Koroškem Municipality",
+    "state_code": "016",
+    "latitude": "46.47045290",
+    "longitude": "14.84999980"
+  },
+  {
+    "name": "Črnomelj Municipality",
+    "state_code": "017",
+    "latitude": "45.53612250",
+    "longitude": "15.19441430"
+  },
+  {
+    "name": "Destrnik Municipality",
+    "state_code": "018",
+    "latitude": "46.49223680",
+    "longitude": "15.87779560"
+  },
+  {
+    "name": "Divača Municipality",
+    "state_code": "019",
+    "latitude": "45.68060690",
+    "longitude": "13.97203120"
+  },
+  {
+    "name": "Dobje Municipality",
+    "state_code": "154",
+    "latitude": "46.13700370",
+    "longitude": "15.39412900"
+  },
+  {
+    "name": "Dobrepolje Municipality",
+    "state_code": "020",
+    "latitude": "45.85249510",
+    "longitude": "14.70831090"
+  },
+  {
+    "name": "Dobrna Municipality",
+    "state_code": "155",
+    "latitude": "46.33561410",
+    "longitude": "15.22597320"
+  },
+  {
+    "name": "Dobrova–Polhov Gradec Municipality",
+    "state_code": "021",
+    "latitude": "46.06488960",
+    "longitude": "14.31681950"
+  },
+  {
+    "name": "Dobrovnik Municipality",
+    "state_code": "156",
+    "latitude": "46.65386620",
+    "longitude": "16.35065940"
+  },
+  {
+    "name": "Dol pri Ljubljani Municipality",
+    "state_code": "022",
+    "latitude": "46.08843860",
+    "longitude": "14.64247920"
+  },
+  {
+    "name": "Dolenjske Toplice Municipality",
+    "state_code": "157",
+    "latitude": "45.73457110",
+    "longitude": "15.01294930"
+  },
+  {
+    "name": "Domžale Municipality",
+    "state_code": "023",
+    "latitude": "46.14382690",
+    "longitude": "14.63752790"
+  },
+  {
+    "name": "Dornava Municipality",
+    "state_code": "024",
+    "latitude": "46.44435130",
+    "longitude": "15.98891590"
+  },
+  {
+    "name": "Dravograd Municipality",
+    "state_code": "025",
+    "latitude": "46.58921900",
+    "longitude": "15.02460210"
+  },
+  {
+    "name": "Duplek Municipality",
+    "state_code": "026",
+    "latitude": "46.50100160",
+    "longitude": "15.75463070"
+  },
+  {
+    "name": "Gorenja Vas–Poljane Municipality",
+    "state_code": "027",
+    "latitude": "46.11165820",
+    "longitude": "14.11493480"
+  },
+  {
+    "name": "Gorišnica Municipality",
+    "state_code": "028",
+    "latitude": "46.41202710",
+    "longitude": "16.01330890"
+  },
+  {
+    "name": "Gorje Municipality",
+    "state_code": "207",
+    "latitude": "46.38024580",
+    "longitude": "14.06853390"
+  },
+  {
+    "name": "Gornja Radgona Municipality",
+    "state_code": "029",
+    "latitude": "46.67670990",
+    "longitude": "15.99108470"
+  },
+  {
+    "name": "Gornji Grad Municipality",
+    "state_code": "030",
+    "latitude": "46.29617120",
+    "longitude": "14.80623470"
+  },
+  {
+    "name": "Gornji Petrovci Municipality",
+    "state_code": "031",
+    "latitude": "46.80371280",
+    "longitude": "16.21913790"
+  },
+  {
+    "name": "Grad Municipality",
+    "state_code": "158",
+    "latitude": "46.80873200",
+    "longitude": "16.10920600"
+  },
+  {
+    "name": "Grosuplje Municipality",
+    "state_code": "032",
+    "latitude": "45.95576450",
+    "longitude": "14.65889900"
+  },
+  {
+    "name": "Hajdina Municipality",
+    "state_code": "159",
+    "latitude": "46.41850140",
+    "longitude": "15.82447220"
+  },
+  {
+    "name": "Hoče–Slivnica Municipality",
+    "state_code": "160",
+    "latitude": "46.47785800",
+    "longitude": "15.64760050"
+  },
+  {
+    "name": "Hodoš Municipality",
+    "state_code": "161",
+    "latitude": "46.83141340",
+    "longitude": "16.32106800"
+  },
+  {
+    "name": "Horjul Municipality",
+    "state_code": "162",
+    "latitude": "46.02253780",
+    "longitude": "14.29862690"
+  },
+  {
+    "name": "Hrastnik Municipality",
+    "state_code": "034",
+    "latitude": "46.14172880",
+    "longitude": "15.08448940"
+  },
+  {
+    "name": "Hrpelje–Kozina Municipality",
+    "state_code": "035",
+    "latitude": "45.60911920",
+    "longitude": "13.93791480"
+  },
+  {
+    "name": "Idrija Municipality",
+    "state_code": "036",
+    "latitude": "46.00409390",
+    "longitude": "13.97754930"
+  },
+  {
+    "name": "Ig Municipality",
+    "state_code": "037",
+    "latitude": "45.95888680",
+    "longitude": "14.52705280"
+  },
+  {
+    "name": "Ivančna Gorica Municipality",
+    "state_code": "039",
+    "latitude": "45.93958410",
+    "longitude": "14.80476260"
+  },
+  {
+    "name": "Izola Municipality",
+    "state_code": "040",
+    "latitude": "45.53135570",
+    "longitude": "13.66646490"
+  },
+  {
+    "name": "Jesenice Municipality",
+    "state_code": "041",
+    "latitude": "46.43670470",
+    "longitude": "14.05260570"
+  },
+  {
+    "name": "Jezersko Municipality",
+    "state_code": "163",
+    "latitude": "46.39427940",
+    "longitude": "14.49855590"
+  },
+  {
+    "name": "Juršinci Municipality",
+    "state_code": "042",
+    "latitude": "46.48986510",
+    "longitude": "15.98092300"
+  },
+  {
+    "name": "Kamnik Municipality",
+    "state_code": "043",
+    "latitude": "46.22216660",
+    "longitude": "14.60707270"
+  },
+  {
+    "name": "Kanal ob Soči Municipality",
+    "state_code": "044",
+    "latitude": "46.06735300",
+    "longitude": "13.62033500"
+  },
+  {
+    "name": "Kidričevo Municipality",
+    "state_code": "045",
+    "latitude": "46.39575720",
+    "longitude": "15.79259060"
+  },
+  {
+    "name": "Kobarid Municipality",
+    "state_code": "046",
+    "latitude": "46.24569710",
+    "longitude": "13.57869490"
+  },
+  {
+    "name": "Kobilje Municipality",
+    "state_code": "047",
+    "latitude": "46.68518000",
+    "longitude": "16.39367190"
+  },
+  {
+    "name": "Kočevje Municipality",
+    "state_code": "048",
+    "latitude": "45.64280000",
+    "longitude": "14.86158380"
+  },
+  {
+    "name": "Komen Municipality",
+    "state_code": "049",
+    "latitude": "45.81752350",
+    "longitude": "13.74827110"
+  },
+  {
+    "name": "Komenda Municipality",
+    "state_code": "164",
+    "latitude": "46.20648800",
+    "longitude": "14.53824990"
+  },
+  {
+    "name": "Koper City Municipality",
+    "state_code": "050",
+    "latitude": "45.54805900",
+    "longitude": "13.73018770"
+  },
+  {
+    "name": "Kostanjevica na Krki Municipality",
+    "state_code": "197",
+    "latitude": "45.83166380",
+    "longitude": "15.44119060"
+  },
+  {
+    "name": "Kostel Municipality",
+    "state_code": "165",
+    "latitude": "45.49282550",
+    "longitude": "14.87082350"
+  },
+  {
+    "name": "Kozje Municipality",
+    "state_code": "051",
+    "latitude": "46.07332110",
+    "longitude": "15.55967190"
+  },
+  {
+    "name": "Kranj City Municipality",
+    "state_code": "052",
+    "latitude": "46.25850210",
+    "longitude": "14.35435690"
+  },
+  {
+    "name": "Kranjska Gora Municipality",
+    "state_code": "053",
+    "latitude": "46.48452930",
+    "longitude": "13.78571450"
+  },
+  {
+    "name": "Križevci Municipality",
+    "state_code": "166",
+    "latitude": "46.57018210",
+    "longitude": "16.10926530"
+  },
+  {
+    "name": "Kungota",
+    "state_code": "055",
+    "latitude": "46.64187930",
+    "longitude": "15.60362880"
+  },
+  {
+    "name": "Kuzma Municipality",
+    "state_code": "056",
+    "latitude": "46.83510380",
+    "longitude": "16.08071000"
+  },
+  {
+    "name": "Laško Municipality",
+    "state_code": "057",
+    "latitude": "46.15422360",
+    "longitude": "15.23614910"
+  },
+  {
+    "name": "Lenart Municipality",
+    "state_code": "058",
+    "latitude": "46.58344240",
+    "longitude": "15.82621250"
+  },
+  {
+    "name": "Lendava Municipality",
+    "state_code": "059",
+    "latitude": "46.55134830",
+    "longitude": "16.44198390"
+  },
+  {
+    "name": "Litija Municipality",
+    "state_code": "060",
+    "latitude": "46.05732260",
+    "longitude": "14.83096360"
+  },
+  {
+    "name": "Ljubljana City Municipality",
+    "state_code": "061",
+    "latitude": "46.05694650",
+    "longitude": "14.50575150"
+  },
+  {
+    "name": "Ljubno Municipality",
+    "state_code": "062",
+    "latitude": "46.34431250",
+    "longitude": "14.83354920"
+  },
+  {
+    "name": "Ljutomer Municipality",
+    "state_code": "063",
+    "latitude": "46.51908480",
+    "longitude": "16.18932160"
+  },
+  {
+    "name": "Log–Dragomer Municipality",
+    "state_code": "208",
+    "latitude": "46.01787470",
+    "longitude": "14.36877670"
+  },
+  {
+    "name": "Logatec Municipality",
+    "state_code": "064",
+    "latitude": "45.91761100",
+    "longitude": "14.23514510"
+  },
+  {
+    "name": "Loška Dolina Municipality",
+    "state_code": "065",
+    "latitude": "45.64779080",
+    "longitude": "14.49731470"
+  },
+  {
+    "name": "Loški Potok Municipality",
+    "state_code": "066",
+    "latitude": "45.69096370",
+    "longitude": "14.59859700"
+  },
+  {
+    "name": "Lovrenc na Pohorju Municipality",
+    "state_code": "167",
+    "latitude": "46.54196380",
+    "longitude": "15.40004430"
+  },
+  {
+    "name": "Luče Municipality",
+    "state_code": "067",
+    "latitude": "46.35449250",
+    "longitude": "14.74715040"
+  },
+  {
+    "name": "Lukovica Municipality",
+    "state_code": "068",
+    "latitude": "46.16962930",
+    "longitude": "14.69072590"
+  },
+  {
+    "name": "Majšperk Municipality",
+    "state_code": "069",
+    "latitude": "46.35030190",
+    "longitude": "15.73405950"
+  },
+  {
+    "name": "Makole Municipality",
+    "state_code": "198",
+    "latitude": "46.31686970",
+    "longitude": "15.66641260"
+  },
+  {
+    "name": "Maribor City Municipality",
+    "state_code": "070",
+    "latitude": "46.55064960",
+    "longitude": "15.62054390"
+  },
+  {
+    "name": "Markovci Municipality",
+    "state_code": "168",
+    "latitude": "46.38793090",
+    "longitude": "15.95860140"
+  },
+  {
+    "name": "Medvode Municipality",
+    "state_code": "071",
+    "latitude": "46.14190800",
+    "longitude": "14.40325960"
+  },
+  {
+    "name": "Mengeš Municipality",
+    "state_code": "072",
+    "latitude": "46.16591220",
+    "longitude": "14.57196940"
+  },
+  {
+    "name": "Metlika Municipality",
+    "state_code": "073",
+    "latitude": "45.64807150",
+    "longitude": "15.31778380"
+  },
+  {
+    "name": "Mežica Municipality",
+    "state_code": "074",
+    "latitude": "46.52150270",
+    "longitude": "14.85213400"
+  },
+  {
+    "name": "Miklavž na Dravskem Polju Municipality",
+    "state_code": "169",
+    "latitude": "46.50826280",
+    "longitude": "15.69520650"
+  },
+  {
+    "name": "Miren–Kostanjevica Municipality",
+    "state_code": "075",
+    "latitude": "45.84360290",
+    "longitude": "13.62766470"
+  },
+  {
+    "name": "Mirna Municipality",
+    "state_code": "212",
+    "latitude": "45.95156470",
+    "longitude": "15.06209770"
+  },
+  {
+    "name": "Mirna Peč Municipality",
+    "state_code": "170",
+    "latitude": "45.84815740",
+    "longitude": "15.08794500"
+  },
+  {
+    "name": "Mislinja Municipality",
+    "state_code": "076",
+    "latitude": "46.44294030",
+    "longitude": "15.19876780"
+  },
+  {
+    "name": "Mokronog–Trebelno Municipality",
+    "state_code": "199",
+    "latitude": "45.90885290",
+    "longitude": "15.15967360"
+  },
+  {
+    "name": "Moravče Municipality",
+    "state_code": "077",
+    "latitude": "46.13627810",
+    "longitude": "14.74600100"
+  },
+  {
+    "name": "Moravske Toplice Municipality",
+    "state_code": "078",
+    "latitude": "46.68569320",
+    "longitude": "16.22245820"
+  },
+  {
+    "name": "Mozirje Municipality",
+    "state_code": "079",
+    "latitude": "46.33943500",
+    "longitude": "14.96024130"
+  },
+  {
+    "name": "Municipality of Apače",
+    "state_code": "195",
+    "latitude": "46.69746790",
+    "longitude": "15.91025340"
+  },
+  {
+    "name": "Municipality of Cirkulane",
+    "state_code": "196",
+    "latitude": "46.32983220",
+    "longitude": "15.99806660"
+  },
+  {
+    "name": "Municipality of Ilirska Bistrica",
+    "state_code": "038",
+    "latitude": "45.57913230",
+    "longitude": "14.28097290"
+  },
+  {
+    "name": "Municipality of Krško",
+    "state_code": "054",
+    "latitude": "45.95896090",
+    "longitude": "15.49235550"
+  },
+  {
+    "name": "Municipality of Škofljica",
+    "state_code": "123",
+    "latitude": "45.98409620",
+    "longitude": "14.57466260"
+  },
+  {
+    "name": "Murska Sobota City Municipality",
+    "state_code": "080",
+    "latitude": "46.64321470",
+    "longitude": "16.15157540"
+  },
+  {
+    "name": "Muta Municipality",
+    "state_code": "081",
+    "latitude": "46.60973660",
+    "longitude": "15.16299950"
+  },
+  {
+    "name": "Naklo Municipality",
+    "state_code": "082",
+    "latitude": "46.27186630",
+    "longitude": "14.31569320"
+  },
+  {
+    "name": "Nazarje Municipality",
+    "state_code": "083",
+    "latitude": "46.28217410",
+    "longitude": "14.92256290"
+  },
+  {
+    "name": "Nova Gorica City Municipality",
+    "state_code": "084",
+    "latitude": "45.97627600",
+    "longitude": "13.73088810"
+  },
+  {
+    "name": "Odranci Municipality",
+    "state_code": "086",
+    "latitude": "46.59010170",
+    "longitude": "16.27881650"
+  },
+  {
+    "name": "Oplotnica",
+    "state_code": "171",
+    "latitude": "46.38716300",
+    "longitude": "15.44581310"
+  },
+  {
+    "name": "Ormož Municipality",
+    "state_code": "087",
+    "latitude": "46.43533330",
+    "longitude": "16.15437400"
+  },
+  {
+    "name": "Osilnica Municipality",
+    "state_code": "088",
+    "latitude": "45.54184670",
+    "longitude": "14.71563030"
+  },
+  {
+    "name": "Pesnica Municipality",
+    "state_code": "089",
+    "latitude": "46.60887550",
+    "longitude": "15.67570510"
+  },
+  {
+    "name": "Piran Municipality",
+    "state_code": "090",
+    "latitude": "45.52888560",
+    "longitude": "13.56807350"
+  },
+  {
+    "name": "Pivka Municipality",
+    "state_code": "091",
+    "latitude": "45.67892960",
+    "longitude": "14.25426890"
+  },
+  {
+    "name": "Podčetrtek Municipality",
+    "state_code": "092",
+    "latitude": "46.17395420",
+    "longitude": "15.60138160"
+  },
+  {
+    "name": "Podlehnik Municipality",
+    "state_code": "172",
+    "latitude": "46.33107820",
+    "longitude": "15.87858360"
+  },
+  {
+    "name": "Podvelka Municipality",
+    "state_code": "093",
+    "latitude": "46.62219520",
+    "longitude": "15.38899220"
+  },
+  {
+    "name": "Poljčane Municipality",
+    "state_code": "200",
+    "latitude": "46.31398530",
+    "longitude": "15.57847910"
+  },
+  {
+    "name": "Polzela Municipality",
+    "state_code": "173",
+    "latitude": "46.28089700",
+    "longitude": "15.07373210"
+  },
+  {
+    "name": "Postojna Municipality",
+    "state_code": "094",
+    "latitude": "45.77493900",
+    "longitude": "14.21342630"
+  },
+  {
+    "name": "Prebold Municipality",
+    "state_code": "174",
+    "latitude": "46.23591360",
+    "longitude": "15.09369120"
+  },
+  {
+    "name": "Preddvor Municipality",
+    "state_code": "095",
+    "latitude": "46.30171390",
+    "longitude": "14.42181650"
+  },
+  {
+    "name": "Prevalje Municipality",
+    "state_code": "175",
+    "latitude": "46.56211460",
+    "longitude": "14.88478610"
+  },
+  {
+    "name": "Ptuj City Municipality",
+    "state_code": "096",
+    "latitude": "46.41995350",
+    "longitude": "15.86968840"
+  },
+  {
+    "name": "Puconci Municipality",
+    "state_code": "097",
+    "latitude": "46.72004180",
+    "longitude": "16.09977920"
+  },
+  {
+    "name": "Rače–Fram Municipality",
+    "state_code": "098",
+    "latitude": "46.45420830",
+    "longitude": "15.63294670"
+  },
+  {
+    "name": "Radeče Municipality",
+    "state_code": "099",
+    "latitude": "46.06669540",
+    "longitude": "15.18204380"
+  },
+  {
+    "name": "Radenci Municipality",
+    "state_code": "100",
+    "latitude": "46.62311210",
+    "longitude": "16.05069030"
+  },
+  {
+    "name": "Radlje ob Dravi Municipality",
+    "state_code": "101",
+    "latitude": "46.61357320",
+    "longitude": "15.23544380"
+  },
+  {
+    "name": "Radovljica Municipality",
+    "state_code": "102",
+    "latitude": "46.33558270",
+    "longitude": "14.20945340"
+  },
+  {
+    "name": "Ravne na Koroškem Municipality",
+    "state_code": "103",
+    "latitude": "46.55211940",
+    "longitude": "14.95990840"
+  },
+  {
+    "name": "Razkrižje Municipality",
+    "state_code": "176",
+    "latitude": "46.52263390",
+    "longitude": "16.26686380"
+  },
+  {
+    "name": "Rečica ob Savinji Municipality",
+    "state_code": "209",
+    "latitude": "46.32337900",
+    "longitude": "14.92236700"
+  },
+  {
+    "name": "Renče–Vogrsko Municipality",
+    "state_code": "201",
+    "latitude": "45.89546170",
+    "longitude": "13.67856730"
+  },
+  {
+    "name": "Ribnica Municipality",
+    "state_code": "104",
+    "latitude": "45.74003030",
+    "longitude": "14.72657820"
+  },
+  {
+    "name": "Ribnica na Pohorju Municipality",
+    "state_code": "177",
+    "latitude": "46.53561450",
+    "longitude": "15.26745380"
+  },
+  {
+    "name": "Rogaška Slatina Municipality",
+    "state_code": "106",
+    "latitude": "46.24539730",
+    "longitude": "15.62650140"
+  },
+  {
+    "name": "Rogašovci Municipality",
+    "state_code": "105",
+    "latitude": "46.80557850",
+    "longitude": "16.03452370"
+  },
+  {
+    "name": "Rogatec Municipality",
+    "state_code": "107",
+    "latitude": "46.22866260",
+    "longitude": "15.69913380"
+  },
+  {
+    "name": "Ruše Municipality",
+    "state_code": "108",
+    "latitude": "46.52062650",
+    "longitude": "15.48178690"
+  },
+  {
+    "name": "Šalovci Municipality",
+    "state_code": "033",
+    "latitude": "46.85335680",
+    "longitude": "16.25917910"
+  },
+  {
+    "name": "Selnica ob Dravi Municipality",
+    "state_code": "178",
+    "latitude": "46.55139180",
+    "longitude": "15.49294100"
+  },
+  {
+    "name": "Semič Municipality",
+    "state_code": "109",
+    "latitude": "45.65205340",
+    "longitude": "15.18207010"
+  },
+  {
+    "name": "Šempeter–Vrtojba Municipality",
+    "state_code": "183",
+    "latitude": "45.92900950",
+    "longitude": "13.64155940"
+  },
+  {
+    "name": "Šenčur Municipality",
+    "state_code": "117",
+    "latitude": "46.24336990",
+    "longitude": "14.41922230"
+  },
+  {
+    "name": "Šentilj Municipality",
+    "state_code": "118",
+    "latitude": "46.68628390",
+    "longitude": "15.71035670"
+  },
+  {
+    "name": "Šentjernej Municipality",
+    "state_code": "119",
+    "latitude": "45.84341300",
+    "longitude": "15.33783120"
+  },
+  {
+    "name": "Šentjur Municipality",
+    "state_code": "120",
+    "latitude": "46.26543390",
+    "longitude": "15.40800000"
+  },
+  {
+    "name": "Šentrupert Municipality",
+    "state_code": "211",
+    "latitude": "45.98731420",
+    "longitude": "15.08297830"
+  },
+  {
+    "name": "Sevnica Municipality",
+    "state_code": "110",
+    "latitude": "46.00703170",
+    "longitude": "15.30456790"
+  },
+  {
+    "name": "Sežana Municipality",
+    "state_code": "111",
+    "latitude": "45.72751090",
+    "longitude": "13.86619310"
+  },
+  {
+    "name": "Škocjan Municipality",
+    "state_code": "121",
+    "latitude": "45.91754540",
+    "longitude": "15.31017360"
+  },
+  {
+    "name": "Škofja Loka Municipality",
+    "state_code": "122",
+    "latitude": "46.14098440",
+    "longitude": "14.28118730"
+  },
+  {
+    "name": "Slovenj Gradec City Municipality",
+    "state_code": "112",
+    "latitude": "46.48777180",
+    "longitude": "15.07294780"
+  },
+  {
+    "name": "Slovenska Bistrica Municipality",
+    "state_code": "113",
+    "latitude": "46.39198130",
+    "longitude": "15.57278690"
+  },
+  {
+    "name": "Slovenske Konjice Municipality",
+    "state_code": "114",
+    "latitude": "46.33691910",
+    "longitude": "15.42147080"
+  },
+  {
+    "name": "Šmarje pri Jelšah Municipality",
+    "state_code": "124",
+    "latitude": "46.22870250",
+    "longitude": "15.51903530"
+  },
+  {
+    "name": "Šmarješke Toplice Municipality",
+    "state_code": "206",
+    "latitude": "45.86803770",
+    "longitude": "15.23474220"
+  },
+  {
+    "name": "Šmartno ob Paki Municipality",
+    "state_code": "125",
+    "latitude": "46.32903720",
+    "longitude": "15.03339370"
+  },
+  {
+    "name": "Šmartno pri Litiji Municipality",
+    "state_code": "194",
+    "latitude": "46.04549710",
+    "longitude": "14.84101330"
+  },
+  {
+    "name": "Sodražica Municipality",
+    "state_code": "179",
+    "latitude": "45.76165650",
+    "longitude": "14.63528530"
+  },
+  {
+    "name": "Solčava Municipality",
+    "state_code": "180",
+    "latitude": "46.40235260",
+    "longitude": "14.68023040"
+  },
+  {
+    "name": "Šoštanj Municipality",
+    "state_code": "126",
+    "latitude": "46.37828360",
+    "longitude": "15.04613780"
+  },
+  {
+    "name": "Središče ob Dravi",
+    "state_code": "202",
+    "latitude": "46.39592820",
+    "longitude": "16.27049150"
+  },
+  {
+    "name": "Starše Municipality",
+    "state_code": "115",
+    "latitude": "46.46743310",
+    "longitude": "15.76405460"
+  },
+  {
+    "name": "Štore Municipality",
+    "state_code": "127",
+    "latitude": "46.22225140",
+    "longitude": "15.31261160"
+  },
+  {
+    "name": "Straža Municipality",
+    "state_code": "203",
+    "latitude": "45.77684280",
+    "longitude": "15.09486940"
+  },
+  {
+    "name": "Sveta Ana Municipality",
+    "state_code": "181",
+    "latitude": "46.65000000",
+    "longitude": "15.84527800"
+  },
+  {
+    "name": "Sveta Trojica v Slovenskih Goricah Municipality",
+    "state_code": "204",
+    "latitude": "46.56808090",
+    "longitude": "15.88230640"
+  },
+  {
+    "name": "Sveti Andraž v Slovenskih Goricah Municipality",
+    "state_code": "182",
+    "latitude": "46.51897470",
+    "longitude": "15.94982620"
+  },
+  {
+    "name": "Sveti Jurij ob Ščavnici Municipality",
+    "state_code": "116",
+    "latitude": "46.56874520",
+    "longitude": "16.02225280"
+  },
+  {
+    "name": "Sveti Jurij v Slovenskih Goricah Municipality",
+    "state_code": "210",
+    "latitude": "46.61707910",
+    "longitude": "15.78046770"
+  },
+  {
+    "name": "Sveti Tomaž Municipality",
+    "state_code": "205",
+    "latitude": "46.48352830",
+    "longitude": "16.07944200"
+  },
+  {
+    "name": "Tabor Municipality",
+    "state_code": "184",
+    "latitude": "46.21079210",
+    "longitude": "15.01742490"
+  },
+  {
+    "name": "Tišina Municipality",
+    "state_code": "010",
+    "latitude": "46.65418840",
+    "longitude": "16.07547810"
+  },
+  {
+    "name": "Tolmin Municipality",
+    "state_code": "128",
+    "latitude": "46.18571880",
+    "longitude": "13.73198380"
+  },
+  {
+    "name": "Trbovlje Municipality",
+    "state_code": "129",
+    "latitude": "46.15035630",
+    "longitude": "15.04531370"
+  },
+  {
+    "name": "Trebnje Municipality",
+    "state_code": "130",
+    "latitude": "45.90801630",
+    "longitude": "15.01319050"
+  },
+  {
+    "name": "Trnovska Vas Municipality",
+    "state_code": "185",
+    "latitude": "46.52940350",
+    "longitude": "15.88531180"
+  },
+  {
+    "name": "Tržič Municipality",
+    "state_code": "131",
+    "latitude": "46.35935140",
+    "longitude": "14.30066230"
+  },
+  {
+    "name": "Trzin Municipality",
+    "state_code": "186",
+    "latitude": "46.12982410",
+    "longitude": "14.55776370"
+  },
+  {
+    "name": "Turnišče Municipality",
+    "state_code": "132",
+    "latitude": "46.61375040",
+    "longitude": "16.32021000"
+  },
+  {
+    "name": "Velika Polana Municipality",
+    "state_code": "187",
+    "latitude": "46.57317150",
+    "longitude": "16.34441260"
+  },
+  {
+    "name": "Velike Lašče Municipality",
+    "state_code": "134",
+    "latitude": "45.83365910",
+    "longitude": "14.63623630"
+  },
+  {
+    "name": "Veržej Municipality",
+    "state_code": "188",
+    "latitude": "46.58411350",
+    "longitude": "16.16208000"
+  },
+  {
+    "name": "Videm Municipality",
+    "state_code": "135",
+    "latitude": "46.36383300",
+    "longitude": "15.87812120"
+  },
+  {
+    "name": "Vipava Municipality",
+    "state_code": "136",
+    "latitude": "45.84126740",
+    "longitude": "13.96096130"
+  },
+  {
+    "name": "Vitanje Municipality",
+    "state_code": "137",
+    "latitude": "46.38153230",
+    "longitude": "15.29506870"
+  },
+  {
+    "name": "Vodice Municipality",
+    "state_code": "138",
+    "latitude": "46.18966430",
+    "longitude": "14.49385390"
+  },
+  {
+    "name": "Vojnik Municipality",
+    "state_code": "139",
+    "latitude": "46.29205810",
+    "longitude": "15.30205800"
+  },
+  {
+    "name": "Vransko Municipality",
+    "state_code": "189",
+    "latitude": "46.23900600",
+    "longitude": "14.95272490"
+  },
+  {
+    "name": "Vrhnika Municipality",
+    "state_code": "140",
+    "latitude": "45.95027190",
+    "longitude": "14.32764220"
+  },
+  {
+    "name": "Vuzenica Municipality",
+    "state_code": "141",
+    "latitude": "46.59808360",
+    "longitude": "15.16572370"
+  },
+  {
+    "name": "Zagorje ob Savi Municipality",
+    "state_code": "142",
+    "latitude": "46.13452020",
+    "longitude": "14.99643840"
+  },
+  {
+    "name": "Žalec Municipality",
+    "state_code": "190",
+    "latitude": "46.25197120",
+    "longitude": "15.16500720"
+  },
+  {
+    "name": "Zavrč Municipality",
+    "state_code": "143",
+    "latitude": "46.35713000",
+    "longitude": "16.04777470"
+  },
+  {
+    "name": "Železniki Municipality",
+    "state_code": "146",
+    "latitude": "46.22563770",
+    "longitude": "14.16936170"
+  },
+  {
+    "name": "Žetale Municipality",
+    "state_code": "191",
+    "latitude": "46.27428330",
+    "longitude": "15.79133590"
+  },
+  {
+    "name": "Žiri Municipality",
+    "state_code": "147",
+    "latitude": "46.04724990",
+    "longitude": "14.10984510"
+  },
+  {
+    "name": "Žirovnica Municipality",
+    "state_code": "192",
+    "latitude": "46.39544030",
+    "longitude": "14.15396320"
+  },
+  {
+    "name": "Zreče Municipality",
+    "state_code": "144",
+    "latitude": "46.41777860",
+    "longitude": "15.37094310"
+  },
+  {
+    "name": "Žužemberk Municipality",
+    "state_code": "193",
+    "latitude": "45.82003500",
+    "longitude": "14.95359190"
+  }
+]

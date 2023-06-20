@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Al Ahmadi",
+    "state_code": "AH",
+    "latitude": "28.57451250",
+    "longitude": "48.10247430"
+  },
+  {
+    "name": "Al Farwaniyah",
+    "state_code": "FA",
+    "latitude": "29.27335700",
+    "longitude": "47.94001540"
+  },
+  {
+    "name": "Al Jahra",
+    "state_code": "JA",
+    "latitude": "29.99318310",
+    "longitude": "47.76347310"
+  },
+  {
+    "name": "Capital",
+    "state_code": "KU",
+    "latitude": "26.22851610",
+    "longitude": "50.58604970"
+  },
+  {
+    "name": "Hawalli",
+    "state_code": "HA",
+    "latitude": "29.30567160",
+    "longitude": "48.03076130"
+  },
+  {
+    "name": "Mubarak Al-Kabeer",
+    "state_code": "MU",
+    "latitude": "29.21224000",
+    "longitude": "48.06051080"
+  }
+]

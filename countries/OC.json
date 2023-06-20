@@ -1,0 +1,313 @@
+[
+  {
+    "name": "American Samoa",
+    "native": "American Samoa",
+    "phone": "1684",
+    "capital": "Pago Pago",
+    "currency": "USD",
+    "languages": [
+      "en",
+      "sm"
+    ],
+    "code": "AS"
+  },
+  {
+    "name": "Australia",
+    "native": "Australia",
+    "phone": "61",
+    "capital": "Canberra",
+    "currency": "AUD",
+    "languages": [
+      "en"
+    ],
+    "code": "AU"
+  },
+  {
+    "name": "Cook Islands",
+    "native": "Cook Islands",
+    "phone": "682",
+    "capital": "Avarua",
+    "currency": "NZD",
+    "languages": [
+      "en"
+    ],
+    "code": "CK"
+  },
+  {
+    "name": "Fiji",
+    "native": "Fiji",
+    "phone": "679",
+    "capital": "Suva",
+    "currency": "FJD",
+    "languages": [
+      "en",
+      "fj",
+      "hi",
+      "ur"
+    ],
+    "code": "FJ"
+  },
+  {
+    "name": "Micronesia",
+    "native": "Micronesia",
+    "phone": "691",
+    "capital": "Palikir",
+    "currency": "USD",
+    "languages": [
+      "en"
+    ],
+    "code": "FM"
+  },
+  {
+    "name": "Guam",
+    "native": "Guam",
+    "phone": "1671",
+    "capital": "Hagåtña",
+    "currency": "USD",
+    "languages": [
+      "en",
+      "ch",
+      "es"
+    ],
+    "code": "GU"
+  },
+  {
+    "name": "Kiribati",
+    "native": "Kiribati",
+    "phone": "686",
+    "capital": "South Tarawa",
+    "currency": "AUD",
+    "languages": [
+      "en"
+    ],
+    "code": "KI"
+  },
+  {
+    "name": "Marshall Islands",
+    "native": "M̧ajeļ",
+    "phone": "692",
+    "capital": "Majuro",
+    "currency": "USD",
+    "languages": [
+      "en",
+      "mh"
+    ],
+    "code": "MH"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "native": "Northern Mariana Islands",
+    "phone": "1670",
+    "capital": "Saipan",
+    "currency": "USD",
+    "languages": [
+      "en",
+      "ch"
+    ],
+    "code": "MP"
+  },
+  {
+    "name": "New Caledonia",
+    "native": "Nouvelle-Calédonie",
+    "phone": "687",
+    "capital": "Nouméa",
+    "currency": "XPF",
+    "languages": [
+      "fr"
+    ],
+    "code": "NC"
+  },
+  {
+    "name": "Norfolk Island",
+    "native": "Norfolk Island",
+    "phone": "672",
+    "capital": "Kingston",
+    "currency": "AUD",
+    "languages": [
+      "en"
+    ],
+    "code": "NF"
+  },
+  {
+    "name": "Nauru",
+    "native": "Nauru",
+    "phone": "674",
+    "capital": "Yaren",
+    "currency": "AUD",
+    "languages": [
+      "en",
+      "na"
+    ],
+    "code": "NR"
+  },
+  {
+    "name": "Niue",
+    "native": "Niuē",
+    "phone": "683",
+    "capital": "Alofi",
+    "currency": "NZD",
+    "languages": [
+      "en"
+    ],
+    "code": "NU"
+  },
+  {
+    "name": "New Zealand",
+    "native": "New Zealand",
+    "phone": "64",
+    "capital": "Wellington",
+    "currency": "NZD",
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "code": "NZ"
+  },
+  {
+    "name": "French Polynesia",
+    "native": "Polynésie française",
+    "phone": "689",
+    "capital": "Papeetē",
+    "currency": "XPF",
+    "languages": [
+      "fr"
+    ],
+    "code": "PF"
+  },
+  {
+    "name": "Papua New Guinea",
+    "native": "Papua Niugini",
+    "phone": "675",
+    "capital": "Port Moresby",
+    "currency": "PGK",
+    "languages": [
+      "en"
+    ],
+    "code": "PG"
+  },
+  {
+    "name": "Pitcairn Islands",
+    "native": "Pitcairn Islands",
+    "phone": "64",
+    "capital": "Adamstown",
+    "currency": "NZD",
+    "languages": [
+      "en"
+    ],
+    "code": "PN"
+  },
+  {
+    "name": "Palau",
+    "native": "Palau",
+    "phone": "680",
+    "capital": "Ngerulmud",
+    "currency": "USD",
+    "languages": [
+      "en"
+    ],
+    "code": "PW"
+  },
+  {
+    "name": "Solomon Islands",
+    "native": "Solomon Islands",
+    "phone": "677",
+    "capital": "Honiara",
+    "currency": "SBD",
+    "languages": [
+      "en"
+    ],
+    "code": "SB"
+  },
+  {
+    "name": "Tokelau",
+    "native": "Tokelau",
+    "phone": "690",
+    "capital": "Fakaofo",
+    "currency": "NZD",
+    "languages": [
+      "en"
+    ],
+    "code": "TK"
+  },
+  {
+    "name": "East Timor",
+    "native": "Timor-Leste",
+    "phone": "670",
+    "capital": "Dili",
+    "currency": "USD",
+    "languages": [
+      "pt"
+    ],
+    "code": "TL"
+  },
+  {
+    "name": "Tonga",
+    "native": "Tonga",
+    "phone": "676",
+    "capital": "Nuku'alofa",
+    "currency": "TOP",
+    "languages": [
+      "en",
+      "to"
+    ],
+    "code": "TO"
+  },
+  {
+    "name": "Tuvalu",
+    "native": "Tuvalu",
+    "phone": "688",
+    "capital": "Funafuti",
+    "currency": "AUD",
+    "languages": [
+      "en"
+    ],
+    "code": "TV"
+  },
+  {
+    "name": "U.S. Minor Outlying Islands",
+    "native": "United States Minor Outlying Islands",
+    "phone": "1",
+    "capital": "",
+    "currency": "USD",
+    "languages": [
+      "en"
+    ],
+    "code": "UM"
+  },
+  {
+    "name": "Vanuatu",
+    "native": "Vanuatu",
+    "phone": "678",
+    "capital": "Port Vila",
+    "currency": "VUV",
+    "languages": [
+      "bi",
+      "en",
+      "fr"
+    ],
+    "code": "VU"
+  },
+  {
+    "name": "Wallis and Futuna",
+    "native": "Wallis et Futuna",
+    "phone": "681",
+    "capital": "Mata-Utu",
+    "currency": "XPF",
+    "languages": [
+      "fr"
+    ],
+    "code": "WF"
+  },
+  {
+    "name": "Samoa",
+    "native": "Samoa",
+    "phone": "685",
+    "capital": "Apia",
+    "currency": "WST",
+    "languages": [
+      "sm",
+      "en"
+    ],
+    "code": "WS"
+  }
+]

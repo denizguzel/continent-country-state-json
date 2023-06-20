@@ -1,0 +1,68 @@
+[
+  {
+    "name": "A'ana",
+    "state_code": "AA",
+    "latitude": "-13.89841800",
+    "longitude": "-171.97529950"
+  },
+  {
+    "name": "Aiga-i-le-Tai",
+    "state_code": "AL",
+    "latitude": "-13.85137910",
+    "longitude": "-172.03254010"
+  },
+  {
+    "name": "Atua",
+    "state_code": "AT",
+    "latitude": "-13.97870530",
+    "longitude": "-171.62542830"
+  },
+  {
+    "name": "Fa'asaleleaga",
+    "state_code": "FA",
+    "latitude": "-13.63076380",
+    "longitude": "-172.23659810"
+  },
+  {
+    "name": "Gaga'emauga",
+    "state_code": "GE",
+    "latitude": "-13.54286660",
+    "longitude": "-172.36688700"
+  },
+  {
+    "name": "Gaga'ifomauga",
+    "state_code": "GI",
+    "latitude": "-13.54680070",
+    "longitude": "-172.49693310"
+  },
+  {
+    "name": "Palauli",
+    "state_code": "PA",
+    "latitude": "-13.72945790",
+    "longitude": "-172.45361150"
+  },
+  {
+    "name": "Satupa'itea",
+    "state_code": "SA",
+    "latitude": "-13.65382140",
+    "longitude": "-172.61592710"
+  },
+  {
+    "name": "Tuamasaga",
+    "state_code": "TU",
+    "latitude": "-13.91635920",
+    "longitude": "-171.82243620"
+  },
+  {
+    "name": "Va'a-o-Fonoti",
+    "state_code": "VF",
+    "latitude": "-13.94709030",
+    "longitude": "-171.54318720"
+  },
+  {
+    "name": "Vaisigano",
+    "state_code": "VS",
+    "latitude": "-13.54138270",
+    "longitude": "-172.70233830"
+  }
+]

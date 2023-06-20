@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Baker Island",
+    "state_code": "81",
+    "latitude": "0.19362660",
+    "longitude": "-176.47690800"
+  },
+  {
+    "name": "Howland Island",
+    "state_code": "84",
+    "latitude": "0.81132190",
+    "longitude": "-176.61827360"
+  },
+  {
+    "name": "Jarvis Island",
+    "state_code": "86",
+    "latitude": "-0.37435030",
+    "longitude": "-159.99672060"
+  },
+  {
+    "name": "Johnston Atoll",
+    "state_code": "67",
+    "latitude": "16.72950350",
+    "longitude": "-169.53364770"
+  },
+  {
+    "name": "Kingman Reef",
+    "state_code": "89",
+    "latitude": "6.38333300",
+    "longitude": "-162.41666700"
+  },
+  {
+    "name": "Midway Islands",
+    "state_code": "71",
+    "latitude": "28.20721680",
+    "longitude": "-177.37349260"
+  },
+  {
+    "name": "Navassa Island",
+    "state_code": "76",
+    "latitude": "18.41006890",
+    "longitude": "-75.01146120"
+  },
+  {
+    "name": "Palmyra Atoll",
+    "state_code": "95",
+    "latitude": "5.88850260",
+    "longitude": "-162.07866560"
+  },
+  {
+    "name": "Wake Island",
+    "state_code": "79",
+    "latitude": "19.27961900",
+    "longitude": "166.64993480"
+  }
+]

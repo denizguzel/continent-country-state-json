@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Aisén del General Carlos Ibañez del Campo",
+    "state_code": "AI",
+    "latitude": "-46.37834500",
+    "longitude": "-72.30076230"
+  },
+  {
+    "name": "Antofagasta",
+    "state_code": "AN",
+    "latitude": "-23.83691040",
+    "longitude": "-69.28775350"
+  },
+  {
+    "name": "Arica y Parinacota",
+    "state_code": "AP",
+    "latitude": "-18.59404850",
+    "longitude": "-69.47845410"
+  },
+  {
+    "name": "Atacama",
+    "state_code": "AT",
+    "latitude": "-27.56605580",
+    "longitude": "-70.05031400"
+  },
+  {
+    "name": "Biobío",
+    "state_code": "BI",
+    "latitude": "-37.44644280",
+    "longitude": "-72.14161320"
+  },
+  {
+    "name": "Coquimbo",
+    "state_code": "CO",
+    "latitude": "-30.54018100",
+    "longitude": "-70.81199530"
+  },
+  {
+    "name": "La Araucanía",
+    "state_code": "AR",
+    "latitude": "-38.94892100",
+    "longitude": "-72.33111300"
+  },
+  {
+    "name": "Libertador General Bernardo O'Higgins",
+    "state_code": "LI",
+    "latitude": "-34.57553740",
+    "longitude": "-71.00223110"
+  },
+  {
+    "name": "Los Lagos",
+    "state_code": "LL",
+    "latitude": "-41.91977790",
+    "longitude": "-72.14161320"
+  },
+  {
+    "name": "Los Ríos",
+    "state_code": "LR",
+    "latitude": "-40.23102170",
+    "longitude": "-72.33111300"
+  },
+  {
+    "name": "Magallanes y de la Antártica Chilena",
+    "state_code": "MA",
+    "latitude": "-52.20643160",
+    "longitude": "-72.16850010"
+  },
+  {
+    "name": "Maule",
+    "state_code": "ML",
+    "latitude": "-35.51636030",
+    "longitude": "-71.57239530"
+  },
+  {
+    "name": "Ñuble",
+    "state_code": "NB",
+    "latitude": "-36.72257430",
+    "longitude": "-71.76224810"
+  },
+  {
+    "name": "Región Metropolitana de Santiago",
+    "state_code": "RM",
+    "latitude": "-33.43755450",
+    "longitude": "-70.65048960"
+  },
+  {
+    "name": "Tarapacá",
+    "state_code": "TA",
+    "latitude": "-20.20287990",
+    "longitude": "-69.28775350"
+  },
+  {
+    "name": "Valparaíso",
+    "state_code": "VS",
+    "latitude": "-33.04723800",
+    "longitude": "-71.61268850"
+  }
+]

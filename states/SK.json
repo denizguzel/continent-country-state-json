@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Banská Bystrica Region",
+    "state_code": "BC",
+    "latitude": "48.53124990",
+    "longitude": "19.38287400"
+  },
+  {
+    "name": "Bratislava Region",
+    "state_code": "BL",
+    "latitude": "48.31183040",
+    "longitude": "17.19732990"
+  },
+  {
+    "name": "Košice Region",
+    "state_code": "KI",
+    "latitude": "48.63757370",
+    "longitude": "21.08342250"
+  },
+  {
+    "name": "Nitra Region",
+    "state_code": "NI",
+    "latitude": "48.01437650",
+    "longitude": "18.54165040"
+  },
+  {
+    "name": "Prešov Region",
+    "state_code": "PV",
+    "latitude": "49.17167730",
+    "longitude": "21.37420010"
+  },
+  {
+    "name": "Trenčín Region",
+    "state_code": "TC",
+    "latitude": "48.80867580",
+    "longitude": "18.23240260"
+  },
+  {
+    "name": "Trnava Region",
+    "state_code": "TA",
+    "latitude": "48.39438980",
+    "longitude": "17.72162050"
+  },
+  {
+    "name": "Žilina Region",
+    "state_code": "ZI",
+    "latitude": "49.20314350",
+    "longitude": "19.36457330"
+  }
+]

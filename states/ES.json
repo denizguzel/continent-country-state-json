@@ -1,0 +1,302 @@
+[
+  {
+    "name": "A Coruña",
+    "state_code": "C",
+    "latitude": "43.36190400",
+    "longitude": "-8.43019320"
+  },
+  {
+    "name": "Albacete",
+    "state_code": "AB",
+    "latitude": "38.99223120",
+    "longitude": "-1.87809890"
+  },
+  {
+    "name": "Alicante",
+    "state_code": "A",
+    "latitude": "38.35795460",
+    "longitude": "-0.54256340"
+  },
+  {
+    "name": "Almeria",
+    "state_code": "AL",
+    "latitude": "36.84152680",
+    "longitude": "-2.47462610"
+  },
+  {
+    "name": "Araba",
+    "state_code": "VI",
+    "latitude": "42.83951190",
+    "longitude": "-3.84237740"
+  },
+  {
+    "name": "Asturias",
+    "state_code": "O",
+    "latitude": "43.36139530",
+    "longitude": "-5.85932670"
+  },
+  {
+    "name": "Ávila",
+    "state_code": "AV",
+    "latitude": "40.69345110",
+    "longitude": "-4.89356270"
+  },
+  {
+    "name": "Badajoz",
+    "state_code": "BA",
+    "latitude": "38.87937480",
+    "longitude": "-7.02269830"
+  },
+  {
+    "name": "Barcelona",
+    "state_code": "B",
+    "latitude": "41.39266790",
+    "longitude": "2.14018910"
+  },
+  {
+    "name": "Bizkaia",
+    "state_code": "BI",
+    "latitude": "43.21921990",
+    "longitude": "-3.21110870"
+  },
+  {
+    "name": "Burgos",
+    "state_code": "BU",
+    "latitude": "42.33807580",
+    "longitude": "-3.58126920"
+  },
+  {
+    "name": "Caceres",
+    "state_code": "CC",
+    "latitude": "39.47163130",
+    "longitude": "-6.42573840"
+  },
+  {
+    "name": "Cádiz",
+    "state_code": "CA",
+    "latitude": "36.51638510",
+    "longitude": "-6.29997670"
+  },
+  {
+    "name": "Cantabria",
+    "state_code": "S",
+    "latitude": "43.18283960",
+    "longitude": "-3.98784270"
+  },
+  {
+    "name": "Castellón",
+    "state_code": "CS",
+    "latitude": "39.98114350",
+    "longitude": "0.00884070"
+  },
+  {
+    "name": "Ciudad Real",
+    "state_code": "CR",
+    "latitude": "38.98607580",
+    "longitude": "-3.94449750"
+  },
+  {
+    "name": "Córdoba",
+    "state_code": "CO",
+    "latitude": "36.51638510",
+    "longitude": "-6.29997670"
+  },
+  {
+    "name": "Cuenca",
+    "state_code": "CU",
+    "latitude": "40.06200360",
+    "longitude": "-2.16553440"
+  },
+  {
+    "name": "Gipuzkoa",
+    "state_code": "SS",
+    "latitude": "43.14523600",
+    "longitude": "-2.44618250"
+  },
+  {
+    "name": "Girona",
+    "state_code": "GI",
+    "latitude": "41.98034450",
+    "longitude": "2.80115770"
+  },
+  {
+    "name": "Granada",
+    "state_code": "GR",
+    "latitude": "37.18094110",
+    "longitude": "-3.62629100"
+  },
+  {
+    "name": "Guadalajara",
+    "state_code": "GU",
+    "latitude": "40.63222140",
+    "longitude": "-3.19068200"
+  },
+  {
+    "name": "Huelva",
+    "state_code": "H",
+    "latitude": "37.27086660",
+    "longitude": "-6.95719990"
+  },
+  {
+    "name": "Huesca",
+    "state_code": "HU",
+    "latitude": "41.59762750",
+    "longitude": "-0.90566230"
+  },
+  {
+    "name": "Islas Baleares",
+    "state_code": "PM",
+    "latitude": "39.35877590",
+    "longitude": "2.73563280"
+  },
+  {
+    "name": "Jaén",
+    "state_code": "J",
+    "latitude": "37.78009310",
+    "longitude": "-3.81437450"
+  },
+  {
+    "name": "La Rioja",
+    "state_code": "LO",
+    "latitude": "42.28707330",
+    "longitude": "-2.53960300"
+  },
+  {
+    "name": "Las Palmas",
+    "state_code": "GC",
+    "latitude": "28.29156370",
+    "longitude": "-16.62913040"
+  },
+  {
+    "name": "Léon",
+    "state_code": "LE",
+    "latitude": "42.59870410",
+    "longitude": "-5.56708390"
+  },
+  {
+    "name": "Lleida",
+    "state_code": "L",
+    "latitude": "41.61837310",
+    "longitude": "0.60242530"
+  },
+  {
+    "name": "Lugo",
+    "state_code": "LU",
+    "latitude": "43.01231370",
+    "longitude": "-7.57400960"
+  },
+  {
+    "name": "Madrid",
+    "state_code": "M",
+    "latitude": "40.41675150",
+    "longitude": "-3.70383220"
+  },
+  {
+    "name": "Málaga",
+    "state_code": "MA",
+    "latitude": "36.71820150",
+    "longitude": "-4.51930600"
+  },
+  {
+    "name": "Murcia",
+    "state_code": "MU",
+    "latitude": "38.13981410",
+    "longitude": "-1.36621600"
+  },
+  {
+    "name": "Navarra",
+    "state_code": "NA",
+    "latitude": "42.69539090",
+    "longitude": "-1.67606910"
+  },
+  {
+    "name": "Ourense",
+    "state_code": "OR",
+    "latitude": "42.33836130",
+    "longitude": "-7.88119510"
+  },
+  {
+    "name": "Palencia",
+    "state_code": "P",
+    "latitude": "42.00968320",
+    "longitude": "-4.52879490"
+  },
+  {
+    "name": "Pontevedra",
+    "state_code": "PO",
+    "latitude": "42.43385950",
+    "longitude": "-8.65685520"
+  },
+  {
+    "name": "Salamanca",
+    "state_code": "SA",
+    "latitude": "40.95152630",
+    "longitude": "-6.23759470"
+  },
+  {
+    "name": "Santa Cruz de Tenerife",
+    "state_code": "TF",
+    "latitude": "28.45789140",
+    "longitude": "-16.32135390"
+  },
+  {
+    "name": "Segovia",
+    "state_code": "SG",
+    "latitude": "40.94292960",
+    "longitude": "-4.10889420"
+  },
+  {
+    "name": "Sevilla",
+    "state_code": "SE",
+    "latitude": "37.37535010",
+    "longitude": "-6.02509730"
+  },
+  {
+    "name": "Soria",
+    "state_code": "SO",
+    "latitude": "41.76654640",
+    "longitude": "-2.47903060"
+  },
+  {
+    "name": "Tarragona",
+    "state_code": "T",
+    "latitude": "41.12586420",
+    "longitude": "1.20356420"
+  },
+  {
+    "name": "Teruel",
+    "state_code": "TE",
+    "latitude": "40.34504100",
+    "longitude": "-1.11847440"
+  },
+  {
+    "name": "Toledo",
+    "state_code": "TO",
+    "latitude": "39.86232000",
+    "longitude": "-4.06946920"
+  },
+  {
+    "name": "Valencia",
+    "state_code": "V",
+    "latitude": "39.48401080",
+    "longitude": "-0.75328090"
+  },
+  {
+    "name": "Valladolid",
+    "state_code": "VA",
+    "latitude": "41.65173750",
+    "longitude": "-4.72449500"
+  },
+  {
+    "name": "Zamora",
+    "state_code": "ZA",
+    "latitude": "41.60957440",
+    "longitude": "-5.89871390"
+  },
+  {
+    "name": "Zaragoza",
+    "state_code": "Z",
+    "latitude": "41.65175010",
+    "longitude": "-0.93000020"
+  }
+]

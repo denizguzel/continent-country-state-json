@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Eastern Province",
+    "state_code": "E",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Northern Province",
+    "state_code": "N",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Southern Province",
+    "state_code": "S",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Western Area",
+    "state_code": "W",
+    "latitude": "40.25459690",
+    "longitude": "-80.24554440"
+  }
+]

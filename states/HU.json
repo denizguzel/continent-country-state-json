@@ -1,0 +1,260 @@
+[
+  {
+    "name": "Bács-Kiskun",
+    "state_code": "BK",
+    "latitude": "46.56614370",
+    "longitude": "19.42724640"
+  },
+  {
+    "name": "Baranya",
+    "state_code": "BA",
+    "latitude": "46.04845850",
+    "longitude": "18.27191730"
+  },
+  {
+    "name": "Békés",
+    "state_code": "BE",
+    "latitude": "46.67048990",
+    "longitude": "21.04349960"
+  },
+  {
+    "name": "Békéscsaba",
+    "state_code": "BC",
+    "latitude": "46.67359390",
+    "longitude": "21.08773090"
+  },
+  {
+    "name": "Borsod-Abaúj-Zemplén",
+    "state_code": "BZ",
+    "latitude": "48.29394010",
+    "longitude": "20.69341120"
+  },
+  {
+    "name": "Budapest",
+    "state_code": "BU",
+    "latitude": "47.49791200",
+    "longitude": "19.04023500"
+  },
+  {
+    "name": "Csongrád County",
+    "state_code": "CS",
+    "latitude": "46.41670500",
+    "longitude": "20.25661610"
+  },
+  {
+    "name": "Debrecen",
+    "state_code": "DE",
+    "latitude": "47.53160490",
+    "longitude": "21.62731240"
+  },
+  {
+    "name": "Dunaújváros",
+    "state_code": "DU",
+    "latitude": "46.96190590",
+    "longitude": "18.93552270"
+  },
+  {
+    "name": "Eger",
+    "state_code": "EG",
+    "latitude": "47.90253480",
+    "longitude": "20.37722840"
+  },
+  {
+    "name": "Érd",
+    "state_code": "ER",
+    "latitude": "47.39197180",
+    "longitude": "18.90454400"
+  },
+  {
+    "name": "Fejér County",
+    "state_code": "FE",
+    "latitude": "47.12179320",
+    "longitude": "18.52948150"
+  },
+  {
+    "name": "Győr",
+    "state_code": "GY",
+    "latitude": "47.68745690",
+    "longitude": "17.65039740"
+  },
+  {
+    "name": "Győr-Moson-Sopron County",
+    "state_code": "GS",
+    "latitude": "47.65092850",
+    "longitude": "17.25058830"
+  },
+  {
+    "name": "Hajdú-Bihar County",
+    "state_code": "HB",
+    "latitude": "47.46883550",
+    "longitude": "21.54532270"
+  },
+  {
+    "name": "Heves County",
+    "state_code": "HE",
+    "latitude": "47.80576170",
+    "longitude": "20.20385590"
+  },
+  {
+    "name": "Hódmezővásárhely",
+    "state_code": "HV",
+    "latitude": "46.41812620",
+    "longitude": "20.33003150"
+  },
+  {
+    "name": "Jász-Nagykun-Szolnok County",
+    "state_code": "JN",
+    "latitude": "47.25555790",
+    "longitude": "20.52324560"
+  },
+  {
+    "name": "Kaposvár",
+    "state_code": "KV",
+    "latitude": "46.35936060",
+    "longitude": "17.79676390"
+  },
+  {
+    "name": "Kecskemét",
+    "state_code": "KM",
+    "latitude": "46.89637110",
+    "longitude": "19.68968610"
+  },
+  {
+    "name": "Komárom-Esztergom",
+    "state_code": "KE",
+    "latitude": "47.57797860",
+    "longitude": "18.12568550"
+  },
+  {
+    "name": "Miskolc",
+    "state_code": "MI",
+    "latitude": "48.10347750",
+    "longitude": "20.77843840"
+  },
+  {
+    "name": "Nagykanizsa",
+    "state_code": "NK",
+    "latitude": "46.45902180",
+    "longitude": "16.98967960"
+  },
+  {
+    "name": "Nógrád County",
+    "state_code": "NO",
+    "latitude": "47.90410310",
+    "longitude": "19.04985040"
+  },
+  {
+    "name": "Nyíregyháza",
+    "state_code": "NY",
+    "latitude": "47.94953240",
+    "longitude": "21.72440530"
+  },
+  {
+    "name": "Pécs",
+    "state_code": "PS",
+    "latitude": "46.07273450",
+    "longitude": "18.23226600"
+  },
+  {
+    "name": "Pest County",
+    "state_code": "PE",
+    "latitude": "47.44800010",
+    "longitude": "19.46181280"
+  },
+  {
+    "name": "Salgótarján",
+    "state_code": "ST",
+    "latitude": "48.09352370",
+    "longitude": "19.79998130"
+  },
+  {
+    "name": "Somogy County",
+    "state_code": "SO",
+    "latitude": "46.55485900",
+    "longitude": "17.58667320"
+  },
+  {
+    "name": "Sopron",
+    "state_code": "SN",
+    "latitude": "47.68166190",
+    "longitude": "16.58447950"
+  },
+  {
+    "name": "Szabolcs-Szatmár-Bereg County",
+    "state_code": "SZ",
+    "latitude": "48.03949540",
+    "longitude": "22.00333000"
+  },
+  {
+    "name": "Szeged",
+    "state_code": "SD",
+    "latitude": "46.25301020",
+    "longitude": "20.14142530"
+  },
+  {
+    "name": "Székesfehérvár",
+    "state_code": "SF",
+    "latitude": "47.18602620",
+    "longitude": "18.42213580"
+  },
+  {
+    "name": "Szekszárd",
+    "state_code": "SS",
+    "latitude": "46.34743260",
+    "longitude": "18.70622930"
+  },
+  {
+    "name": "Szolnok",
+    "state_code": "SK",
+    "latitude": "47.16213550",
+    "longitude": "20.18247120"
+  },
+  {
+    "name": "Szombathely",
+    "state_code": "SH",
+    "latitude": "47.23068510",
+    "longitude": "16.62184410"
+  },
+  {
+    "name": "Tatabánya",
+    "state_code": "TB",
+    "latitude": "47.56924600",
+    "longitude": "18.40481800"
+  },
+  {
+    "name": "Tolna County",
+    "state_code": "TO",
+    "latitude": "46.47627540",
+    "longitude": "18.55706270"
+  },
+  {
+    "name": "Vas County",
+    "state_code": "VA",
+    "latitude": "47.09291110",
+    "longitude": "16.68121830"
+  },
+  {
+    "name": "Veszprém",
+    "state_code": "VM",
+    "latitude": "47.10280870",
+    "longitude": "17.90930190"
+  },
+  {
+    "name": "Veszprém County",
+    "state_code": "VE",
+    "latitude": "47.09309740",
+    "longitude": "17.91007630"
+  },
+  {
+    "name": "Zala County",
+    "state_code": "ZA",
+    "latitude": "46.73844040",
+    "longitude": "16.91522520"
+  },
+  {
+    "name": "Zalaegerszeg",
+    "state_code": "ZE",
+    "latitude": "46.84169360",
+    "longitude": "16.84163220"
+  }
+]

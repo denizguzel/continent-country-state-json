@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Antarctica",
+    "native": "Antarctica",
+    "phone": "672",
+    "capital": "",
+    "currency": "",
+    "languages": [],
+    "code": "AQ"
+  },
+  {
+    "name": "Bouvet Island",
+    "native": "Bouvetøya",
+    "phone": "47",
+    "capital": "",
+    "currency": "NOK",
+    "languages": [
+      "no",
+      "nb",
+      "nn"
+    ],
+    "code": "BV"
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "native": "South Georgia",
+    "phone": "500",
+    "capital": "King Edward Point",
+    "currency": "GBP",
+    "languages": [
+      "en"
+    ],
+    "code": "GS"
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "native": "Heard Island and McDonald Islands",
+    "phone": "61",
+    "capital": "",
+    "currency": "AUD",
+    "languages": [
+      "en"
+    ],
+    "code": "HM"
+  },
+  {
+    "name": "French Southern Territories",
+    "native": "Territoire des Terres australes et antarctiques fr",
+    "phone": "262",
+    "capital": "Port-aux-Français",
+    "currency": "EUR",
+    "languages": [
+      "fr"
+    ],
+    "code": "TF"
+  }
+]

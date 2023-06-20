@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ali Sabieh Region",
+    "state_code": "AS",
+    "latitude": "11.19289730",
+    "longitude": "42.94169800"
+  },
+  {
+    "name": "Arta Region",
+    "state_code": "AR",
+    "latitude": "11.52555280",
+    "longitude": "42.84794740"
+  },
+  {
+    "name": "Dikhil Region",
+    "state_code": "DI",
+    "latitude": "11.10543360",
+    "longitude": "42.37047440"
+  },
+  {
+    "name": "Djibouti",
+    "state_code": "DJ",
+    "latitude": "11.82513800",
+    "longitude": "42.59027500"
+  },
+  {
+    "name": "Obock Region",
+    "state_code": "OB",
+    "latitude": "12.38956910",
+    "longitude": "43.01948970"
+  },
+  {
+    "name": "Tadjourah Region",
+    "state_code": "TA",
+    "latitude": "11.93388850",
+    "longitude": "42.39383750"
+  }
+]

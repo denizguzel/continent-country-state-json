@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Alexandria",
+    "state_code": "ALX",
+    "latitude": "30.87605680",
+    "longitude": "29.74260400"
+  },
+  {
+    "name": "Aswan",
+    "state_code": "ASN",
+    "latitude": "23.69664980",
+    "longitude": "32.71813750"
+  },
+  {
+    "name": "Asyut",
+    "state_code": "AST",
+    "latitude": "27.21338310",
+    "longitude": "31.44561790"
+  },
+  {
+    "name": "Beheira",
+    "state_code": "BH",
+    "latitude": "30.84809860",
+    "longitude": "30.34355060"
+  },
+  {
+    "name": "Beni Suef",
+    "state_code": "BNS",
+    "latitude": "28.89388370",
+    "longitude": "31.44561790"
+  },
+  {
+    "name": "Cairo",
+    "state_code": "C",
+    "latitude": "29.95375640",
+    "longitude": "31.53700030"
+  },
+  {
+    "name": "Dakahlia",
+    "state_code": "DK",
+    "latitude": "31.16560440",
+    "longitude": "31.49131820"
+  },
+  {
+    "name": "Damietta",
+    "state_code": "DT",
+    "latitude": "31.36257990",
+    "longitude": "31.67393710"
+  },
+  {
+    "name": "Faiyum",
+    "state_code": "FYM",
+    "latitude": "29.30840210",
+    "longitude": "30.84284970"
+  },
+  {
+    "name": "Gharbia",
+    "state_code": "GH",
+    "latitude": "30.87535560",
+    "longitude": "31.03351000"
+  },
+  {
+    "name": "Giza",
+    "state_code": "GZ",
+    "latitude": "28.76662160",
+    "longitude": "29.23207840"
+  },
+  {
+    "name": "Ismailia",
+    "state_code": "IS",
+    "latitude": "30.58309340",
+    "longitude": "32.26538870"
+  },
+  {
+    "name": "Kafr el-Sheikh",
+    "state_code": "KFS",
+    "latitude": "31.30854440",
+    "longitude": "30.80394740"
+  },
+  {
+    "name": "Luxor",
+    "state_code": "LX",
+    "latitude": "25.39444440",
+    "longitude": "32.49200880"
+  },
+  {
+    "name": "Matrouh",
+    "state_code": "MT",
+    "latitude": "29.56963500",
+    "longitude": "26.41938900"
+  },
+  {
+    "name": "Minya",
+    "state_code": "MN",
+    "latitude": "28.28472900",
+    "longitude": "30.52790960"
+  },
+  {
+    "name": "Monufia",
+    "state_code": "MNF",
+    "latitude": "30.59724550",
+    "longitude": "30.98763210"
+  },
+  {
+    "name": "New Valley",
+    "state_code": "WAD",
+    "latitude": "24.54556380",
+    "longitude": "27.17353160"
+  },
+  {
+    "name": "North Sinai",
+    "state_code": "SIN",
+    "latitude": "30.28236500",
+    "longitude": "33.61757700"
+  },
+  {
+    "name": "Port Said",
+    "state_code": "PTS",
+    "latitude": "31.07586060",
+    "longitude": "32.26538870"
+  },
+  {
+    "name": "Qalyubia",
+    "state_code": "KB",
+    "latitude": "30.32923680",
+    "longitude": "31.21684660"
+  },
+  {
+    "name": "Qena",
+    "state_code": "KN",
+    "latitude": "26.23460330",
+    "longitude": "32.98883190"
+  },
+  {
+    "name": "Red Sea",
+    "state_code": "BA",
+    "latitude": "24.68263160",
+    "longitude": "34.15319470"
+  },
+  {
+    "name": "Sharqia",
+    "state_code": "SHR",
+    "latitude": "30.67305450",
+    "longitude": "31.15932470"
+  },
+  {
+    "name": "Sohag",
+    "state_code": "SHG",
+    "latitude": "26.69383400",
+    "longitude": "32.17460500"
+  },
+  {
+    "name": "South Sinai",
+    "state_code": "JS",
+    "latitude": "29.31018280",
+    "longitude": "34.15319470"
+  },
+  {
+    "name": "Suez",
+    "state_code": "SUZ",
+    "latitude": "29.36822550",
+    "longitude": "32.17460500"
+  }
+]

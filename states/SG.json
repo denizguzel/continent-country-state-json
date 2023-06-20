@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Central Singapore",
+    "state_code": "01",
+    "latitude": "1.28840000",
+    "longitude": "103.85350000"
+  },
+  {
+    "name": "North East",
+    "state_code": "02",
+    "latitude": "1.38240000",
+    "longitude": "103.89720000"
+  },
+  {
+    "name": "North West",
+    "state_code": "03",
+    "latitude": "1.41800000",
+    "longitude": "103.82750000"
+  },
+  {
+    "name": "South East",
+    "state_code": "04",
+    "latitude": "1.35710000",
+    "longitude": "103.70040000"
+  },
+  {
+    "name": "South West",
+    "state_code": "05",
+    "latitude": "1.35710000",
+    "longitude": "103.94510000"
+  }
+]

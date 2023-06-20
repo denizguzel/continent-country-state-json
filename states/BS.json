@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Acklins",
+    "state_code": "AK",
+    "latitude": "22.36577080",
+    "longitude": "-74.05351260"
+  },
+  {
+    "name": "Acklins and Crooked Islands",
+    "state_code": "AC",
+    "latitude": "22.36577080",
+    "longitude": "-74.05351260"
+  },
+  {
+    "name": "Berry Islands",
+    "state_code": "BY",
+    "latitude": "25.62500420",
+    "longitude": "-77.82522030"
+  },
+  {
+    "name": "Bimini",
+    "state_code": "BI",
+    "latitude": "24.64153250",
+    "longitude": "-79.85062260"
+  },
+  {
+    "name": "Black Point",
+    "state_code": "BP",
+    "latitude": "41.39510240",
+    "longitude": "-71.46505560"
+  },
+  {
+    "name": "Cat Island",
+    "state_code": "CI",
+    "latitude": "30.22801360",
+    "longitude": "-89.10149330"
+  },
+  {
+    "name": "Central Abaco",
+    "state_code": "CO",
+    "latitude": "26.35550290",
+    "longitude": "-77.14851630"
+  },
+  {
+    "name": "Central Andros",
+    "state_code": "CS",
+    "latitude": "24.46884820",
+    "longitude": "-77.97386500"
+  },
+  {
+    "name": "Central Eleuthera",
+    "state_code": "CE",
+    "latitude": "25.13620370",
+    "longitude": "-76.14359150"
+  },
+  {
+    "name": "Crooked Island",
+    "state_code": "CK",
+    "latitude": "22.63909820",
+    "longitude": "-74.00650900"
+  },
+  {
+    "name": "East Grand Bahama",
+    "state_code": "EG",
+    "latitude": "26.65828230",
+    "longitude": "-78.22482910"
+  },
+  {
+    "name": "Exuma",
+    "state_code": "EX",
+    "latitude": "23.61925980",
+    "longitude": "-75.96954650"
+  },
+  {
+    "name": "Freeport",
+    "state_code": "FP",
+    "latitude": "42.29668610",
+    "longitude": "-89.62122710"
+  },
+  {
+    "name": "Fresh Creek",
+    "state_code": "FC",
+    "latitude": "40.65437560",
+    "longitude": "-73.89479390"
+  },
+  {
+    "name": "Governor's Harbour",
+    "state_code": "GH",
+    "latitude": "25.19480960",
+    "longitude": "-76.24396220"
+  },
+  {
+    "name": "Grand Cay",
+    "state_code": "GC",
+    "latitude": "27.21626150",
+    "longitude": "-78.32305590"
+  },
+  {
+    "name": "Green Turtle Cay",
+    "state_code": "GT",
+    "latitude": "26.77471070",
+    "longitude": "-77.32957080"
+  },
+  {
+    "name": "Harbour Island",
+    "state_code": "HI",
+    "latitude": "25.50011000",
+    "longitude": "-76.63405110"
+  },
+  {
+    "name": "High Rock",
+    "state_code": "HR",
+    "latitude": "46.68434150",
+    "longitude": "-121.90174610"
+  },
+  {
+    "name": "Hope Town",
+    "state_code": "HT",
+    "latitude": "26.50095040",
+    "longitude": "-76.99598720"
+  },
+  {
+    "name": "Inagua",
+    "state_code": "IN",
+    "latitude": "21.06560660",
+    "longitude": "-73.32370800"
+  },
+  {
+    "name": "Kemps Bay",
+    "state_code": "KB",
+    "latitude": "24.02364000",
+    "longitude": "-77.54534900"
+  },
+  {
+    "name": "Long Island",
+    "state_code": "LI",
+    "latitude": "40.78914200",
+    "longitude": "-73.13496100"
+  },
+  {
+    "name": "Mangrove Cay",
+    "state_code": "MC",
+    "latitude": "24.14814250",
+    "longitude": "-77.76809520"
+  },
+  {
+    "name": "Marsh Harbour",
+    "state_code": "MH",
+    "latitude": "26.52416530",
+    "longitude": "-77.09098090"
+  },
+  {
+    "name": "Mayaguana District",
+    "state_code": "MG",
+    "latitude": "22.40177140",
+    "longitude": "-73.06413960"
+  },
+  {
+    "name": "New Providence",
+    "state_code": "NP",
+    "latitude": "40.69843480",
+    "longitude": "-74.40154050"
+  },
+  {
+    "name": "Nichollstown and Berry Islands",
+    "state_code": "NB",
+    "latitude": "25.72362340",
+    "longitude": "-77.83101040"
+  },
+  {
+    "name": "North Abaco",
+    "state_code": "NO",
+    "latitude": "26.78716970",
+    "longitude": "-77.43577390"
+  },
+  {
+    "name": "North Andros",
+    "state_code": "NS",
+    "latitude": "24.70638050",
+    "longitude": "-78.01953870"
+  },
+  {
+    "name": "North Eleuthera",
+    "state_code": "NE",
+    "latitude": "25.46475170",
+    "longitude": "-76.67592200"
+  },
+  {
+    "name": "Ragged Island",
+    "state_code": "RI",
+    "latitude": "41.59743100",
+    "longitude": "-71.26020200"
+  },
+  {
+    "name": "Rock Sound",
+    "state_code": "RS",
+    "latitude": "39.01424430",
+    "longitude": "-95.67089890"
+  },
+  {
+    "name": "Rum Cay District",
+    "state_code": "RC",
+    "latitude": "23.68546760",
+    "longitude": "-74.83901620"
+  },
+  {
+    "name": "San Salvador and Rum Cay",
+    "state_code": "SR",
+    "latitude": "23.68546760",
+    "longitude": "-74.83901620"
+  },
+  {
+    "name": "San Salvador Island",
+    "state_code": "SS",
+    "latitude": "24.07755460",
+    "longitude": "-74.47600880"
+  },
+  {
+    "name": "Sandy Point",
+    "state_code": "SP",
+    "latitude": "39.01454640",
+    "longitude": "-76.39989250"
+  },
+  {
+    "name": "South Abaco",
+    "state_code": "SO",
+    "latitude": "26.06405910",
+    "longitude": "-77.26350380"
+  },
+  {
+    "name": "South Andros",
+    "state_code": "SA",
+    "latitude": "23.97135560",
+    "longitude": "-77.60778650"
+  },
+  {
+    "name": "South Eleuthera",
+    "state_code": "SE",
+    "latitude": "24.77085620",
+    "longitude": "-76.21314740"
+  },
+  {
+    "name": "Spanish Wells",
+    "state_code": "SW",
+    "latitude": "26.32505990",
+    "longitude": "-81.79803280"
+  },
+  {
+    "name": "West Grand Bahama",
+    "state_code": "WG",
+    "latitude": "26.65944700",
+    "longitude": "-78.52065000"
+  }
+]

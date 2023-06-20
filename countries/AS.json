@@ -1,0 +1,593 @@
+[
+  {
+    "name": "United Arab Emirates",
+    "native": "دولة الإمارات العربية المتحدة",
+    "phone": "971",
+    "capital": "Abu Dhabi",
+    "currency": "AED",
+    "languages": [
+      "ar"
+    ],
+    "code": "AE"
+  },
+  {
+    "name": "Afghanistan",
+    "native": "افغانستان",
+    "phone": "93",
+    "capital": "Kabul",
+    "currency": "AFN",
+    "languages": [
+      "ps",
+      "uz",
+      "tk"
+    ],
+    "code": "AF"
+  },
+  {
+    "name": "Armenia",
+    "native": "Հայաստան",
+    "phone": "374",
+    "capital": "Yerevan",
+    "currency": "AMD",
+    "languages": [
+      "hy",
+      "ru"
+    ],
+    "code": "AM"
+  },
+  {
+    "name": "Azerbaijan",
+    "native": "Azərbaycan",
+    "phone": "994",
+    "capital": "Baku",
+    "currency": "AZN",
+    "languages": [
+      "az"
+    ],
+    "code": "AZ"
+  },
+  {
+    "name": "Bangladesh",
+    "native": "Bangladesh",
+    "phone": "880",
+    "capital": "Dhaka",
+    "currency": "BDT",
+    "languages": [
+      "bn"
+    ],
+    "code": "BD"
+  },
+  {
+    "name": "Bahrain",
+    "native": "‏البحرين",
+    "phone": "973",
+    "capital": "Manama",
+    "currency": "BHD",
+    "languages": [
+      "ar"
+    ],
+    "code": "BH"
+  },
+  {
+    "name": "Brunei",
+    "native": "Negara Brunei Darussalam",
+    "phone": "673",
+    "capital": "Bandar Seri Begawan",
+    "currency": "BND",
+    "languages": [
+      "ms"
+    ],
+    "code": "BN"
+  },
+  {
+    "name": "Bhutan",
+    "native": "ʼbrug-yul",
+    "phone": "975",
+    "capital": "Thimphu",
+    "currency": "BTN,INR",
+    "languages": [
+      "dz"
+    ],
+    "code": "BT"
+  },
+  {
+    "name": "Cocos [Keeling] Islands",
+    "native": "Cocos (Keeling) Islands",
+    "phone": "61",
+    "capital": "West Island",
+    "currency": "AUD",
+    "languages": [
+      "en"
+    ],
+    "code": "CC"
+  },
+  {
+    "name": "China",
+    "native": "中国",
+    "phone": "86",
+    "capital": "Beijing",
+    "currency": "CNY",
+    "languages": [
+      "zh"
+    ],
+    "code": "CN"
+  },
+  {
+    "name": "Christmas Island",
+    "native": "Christmas Island",
+    "phone": "61",
+    "capital": "Flying Fish Cove",
+    "currency": "AUD",
+    "languages": [
+      "en"
+    ],
+    "code": "CX"
+  },
+  {
+    "name": "Georgia",
+    "native": "საქართველო",
+    "phone": "995",
+    "capital": "Tbilisi",
+    "currency": "GEL",
+    "languages": [
+      "ka"
+    ],
+    "code": "GE"
+  },
+  {
+    "name": "Hong Kong",
+    "native": "香港",
+    "phone": "852",
+    "capital": "City of Victoria",
+    "currency": "HKD",
+    "languages": [
+      "zh",
+      "en"
+    ],
+    "code": "HK"
+  },
+  {
+    "name": "Indonesia",
+    "native": "Indonesia",
+    "phone": "62",
+    "capital": "Jakarta",
+    "currency": "IDR",
+    "languages": [
+      "id"
+    ],
+    "code": "ID"
+  },
+  {
+    "name": "Israel",
+    "native": "יִשְׂרָאֵל",
+    "phone": "972",
+    "capital": "Jerusalem",
+    "currency": "ILS",
+    "languages": [
+      "he",
+      "ar"
+    ],
+    "code": "IL"
+  },
+  {
+    "name": "India",
+    "native": "भारत",
+    "phone": "91",
+    "capital": "New Delhi",
+    "currency": "INR",
+    "languages": [
+      "hi",
+      "en"
+    ],
+    "code": "IN"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "native": "British Indian Ocean Territory",
+    "phone": "246",
+    "capital": "Diego Garcia",
+    "currency": "USD",
+    "languages": [
+      "en"
+    ],
+    "code": "IO"
+  },
+  {
+    "name": "Iraq",
+    "native": "العراق",
+    "phone": "964",
+    "capital": "Baghdad",
+    "currency": "IQD",
+    "languages": [
+      "ar",
+      "ku"
+    ],
+    "code": "IQ"
+  },
+  {
+    "name": "Iran",
+    "native": "ایران",
+    "phone": "98",
+    "capital": "Tehran",
+    "currency": "IRR",
+    "languages": [
+      "fa"
+    ],
+    "code": "IR"
+  },
+  {
+    "name": "Jordan",
+    "native": "الأردن",
+    "phone": "962",
+    "capital": "Amman",
+    "currency": "JOD",
+    "languages": [
+      "ar"
+    ],
+    "code": "JO"
+  },
+  {
+    "name": "Japan",
+    "native": "日本",
+    "phone": "81",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "languages": [
+      "ja"
+    ],
+    "code": "JP"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "native": "Кыргызстан",
+    "phone": "996",
+    "capital": "Bishkek",
+    "currency": "KGS",
+    "languages": [
+      "ky",
+      "ru"
+    ],
+    "code": "KG"
+  },
+  {
+    "name": "Cambodia",
+    "native": "Kâmpŭchéa",
+    "phone": "855",
+    "capital": "Phnom Penh",
+    "currency": "KHR",
+    "languages": [
+      "km"
+    ],
+    "code": "KH"
+  },
+  {
+    "name": "North Korea",
+    "native": "북한",
+    "phone": "850",
+    "capital": "Pyongyang",
+    "currency": "KPW",
+    "languages": [
+      "ko"
+    ],
+    "code": "KP"
+  },
+  {
+    "name": "South Korea",
+    "native": "대한민국",
+    "phone": "82",
+    "capital": "Seoul",
+    "currency": "KRW",
+    "languages": [
+      "ko"
+    ],
+    "code": "KR"
+  },
+  {
+    "name": "Kuwait",
+    "native": "الكويت",
+    "phone": "965",
+    "capital": "Kuwait City",
+    "currency": "KWD",
+    "languages": [
+      "ar"
+    ],
+    "code": "KW"
+  },
+  {
+    "name": "Kazakhstan",
+    "native": "Қазақстан",
+    "phone": "76,77",
+    "capital": "Astana",
+    "currency": "KZT",
+    "languages": [
+      "kk",
+      "ru"
+    ],
+    "code": "KZ"
+  },
+  {
+    "name": "Laos",
+    "native": "ສປປລາວ",
+    "phone": "856",
+    "capital": "Vientiane",
+    "currency": "LAK",
+    "languages": [
+      "lo"
+    ],
+    "code": "LA"
+  },
+  {
+    "name": "Lebanon",
+    "native": "لبنان",
+    "phone": "961",
+    "capital": "Beirut",
+    "currency": "LBP",
+    "languages": [
+      "ar",
+      "fr"
+    ],
+    "code": "LB"
+  },
+  {
+    "name": "Sri Lanka",
+    "native": "śrī laṃkāva",
+    "phone": "94",
+    "capital": "Colombo",
+    "currency": "LKR",
+    "languages": [
+      "si",
+      "ta"
+    ],
+    "code": "LK"
+  },
+  {
+    "name": "Myanmar [Burma]",
+    "native": "Myanma",
+    "phone": "95",
+    "capital": "Naypyidaw",
+    "currency": "MMK",
+    "languages": [
+      "my"
+    ],
+    "code": "MM"
+  },
+  {
+    "name": "Mongolia",
+    "native": "Монгол улс",
+    "phone": "976",
+    "capital": "Ulan Bator",
+    "currency": "MNT",
+    "languages": [
+      "mn"
+    ],
+    "code": "MN"
+  },
+  {
+    "name": "Macao",
+    "native": "澳門",
+    "phone": "853",
+    "capital": "",
+    "currency": "MOP",
+    "languages": [
+      "zh",
+      "pt"
+    ],
+    "code": "MO"
+  },
+  {
+    "name": "Maldives",
+    "native": "Maldives",
+    "phone": "960",
+    "capital": "Malé",
+    "currency": "MVR",
+    "languages": [
+      "dv"
+    ],
+    "code": "MV"
+  },
+  {
+    "name": "Malaysia",
+    "native": "Malaysia",
+    "phone": "60",
+    "capital": "Kuala Lumpur",
+    "currency": "MYR",
+    "languages": [
+      "ms"
+    ],
+    "code": "MY"
+  },
+  {
+    "name": "Nepal",
+    "native": "नपल",
+    "phone": "977",
+    "capital": "Kathmandu",
+    "currency": "NPR",
+    "languages": [
+      "ne"
+    ],
+    "code": "NP"
+  },
+  {
+    "name": "Oman",
+    "native": "عمان",
+    "phone": "968",
+    "capital": "Muscat",
+    "currency": "OMR",
+    "languages": [
+      "ar"
+    ],
+    "code": "OM"
+  },
+  {
+    "name": "Philippines",
+    "native": "Pilipinas",
+    "phone": "63",
+    "capital": "Manila",
+    "currency": "PHP",
+    "languages": [
+      "en"
+    ],
+    "code": "PH"
+  },
+  {
+    "name": "Pakistan",
+    "native": "Pakistan",
+    "phone": "92",
+    "capital": "Islamabad",
+    "currency": "PKR",
+    "languages": [
+      "en",
+      "ur"
+    ],
+    "code": "PK"
+  },
+  {
+    "name": "Palestine",
+    "native": "فلسطين",
+    "phone": "970",
+    "capital": "Ramallah",
+    "currency": "ILS",
+    "languages": [
+      "ar"
+    ],
+    "code": "PS"
+  },
+  {
+    "name": "Qatar",
+    "native": "قطر",
+    "phone": "974",
+    "capital": "Doha",
+    "currency": "QAR",
+    "languages": [
+      "ar"
+    ],
+    "code": "QA"
+  },
+  {
+    "name": "Saudi Arabia",
+    "native": "العربية السعودية",
+    "phone": "966",
+    "capital": "Riyadh",
+    "currency": "SAR",
+    "languages": [
+      "ar"
+    ],
+    "code": "SA"
+  },
+  {
+    "name": "Singapore",
+    "native": "Singapore",
+    "phone": "65",
+    "capital": "Singapore",
+    "currency": "SGD",
+    "languages": [
+      "en",
+      "ms",
+      "ta",
+      "zh"
+    ],
+    "code": "SG"
+  },
+  {
+    "name": "Syria",
+    "native": "سوريا",
+    "phone": "963",
+    "capital": "Damascus",
+    "currency": "SYP",
+    "languages": [
+      "ar"
+    ],
+    "code": "SY"
+  },
+  {
+    "name": "Thailand",
+    "native": "ประเทศไทย",
+    "phone": "66",
+    "capital": "Bangkok",
+    "currency": "THB",
+    "languages": [
+      "th"
+    ],
+    "code": "TH"
+  },
+  {
+    "name": "Tajikistan",
+    "native": "Тоҷикистон",
+    "phone": "992",
+    "capital": "Dushanbe",
+    "currency": "TJS",
+    "languages": [
+      "tg",
+      "ru"
+    ],
+    "code": "TJ"
+  },
+  {
+    "name": "Turkmenistan",
+    "native": "Türkmenistan",
+    "phone": "993",
+    "capital": "Ashgabat",
+    "currency": "TMT",
+    "languages": [
+      "tk",
+      "ru"
+    ],
+    "code": "TM"
+  },
+  {
+    "name": "Turkey",
+    "native": "Türkiye",
+    "phone": "90",
+    "capital": "Ankara",
+    "currency": "TRY",
+    "languages": [
+      "tr"
+    ],
+    "code": "TR"
+  },
+  {
+    "name": "Taiwan",
+    "native": "臺灣",
+    "phone": "886",
+    "capital": "Taipei",
+    "currency": "TWD",
+    "languages": [
+      "zh"
+    ],
+    "code": "TW"
+  },
+  {
+    "name": "Uzbekistan",
+    "native": "O‘zbekiston",
+    "phone": "998",
+    "capital": "Tashkent",
+    "currency": "UZS",
+    "languages": [
+      "uz",
+      "ru"
+    ],
+    "code": "UZ"
+  },
+  {
+    "name": "Vietnam",
+    "native": "Việt Nam",
+    "phone": "84",
+    "capital": "Hanoi",
+    "currency": "VND",
+    "languages": [
+      "vi"
+    ],
+    "code": "VN"
+  },
+  {
+    "name": "Yemen",
+    "native": "اليَمَن",
+    "phone": "967",
+    "capital": "Sana'a",
+    "currency": "YER",
+    "languages": [
+      "ar"
+    ],
+    "code": "YE"
+  }
+]

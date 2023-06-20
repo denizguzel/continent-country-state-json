@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Carriacou and Petite Martinique",
+    "state_code": "10",
+    "latitude": "12.47858880",
+    "longitude": "-61.44938420"
+  },
+  {
+    "name": "Saint Andrew Parish",
+    "state_code": "01",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Saint David Parish",
+    "state_code": "02",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Saint George Parish",
+    "state_code": "03",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Saint John Parish",
+    "state_code": "04",
+    "latitude": "30.11183310",
+    "longitude": "-90.48799160"
+  },
+  {
+    "name": "Saint Mark Parish",
+    "state_code": "05",
+    "latitude": "40.58818630",
+    "longitude": "-73.94957010"
+  },
+  {
+    "name": "Saint Patrick Parish",
+    "state_code": "06",
+    "latitude": null,
+    "longitude": null
+  }
+]
